@@ -1,0 +1,17 @@
+[ O
+... O
+] O
+Insgesamt O
+sind O
+105 O
+Personen O
+mit O
+einem O
+polnischen B-LOC
+Durchgangsvisum B-TER
+durchgereist O
+. O
+
+[ O
+... O
+] O

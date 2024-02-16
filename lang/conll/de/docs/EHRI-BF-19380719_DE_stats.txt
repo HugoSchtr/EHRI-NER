@@ -1,0 +1,1 @@
+{'entity': {'PER': 14, 'LOC': 26, 'ORG': 1, 'TER': 14}, 'token': 586}

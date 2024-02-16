@@ -1,0 +1,29 @@
+[ O
+... O
+] O
+Die O
+Polizeidirektion B-TER
+in O
+Tschechisch B-LOC
+- O
+Teschen B-LOC
+: O
+54 O
+Personen O
+mit O
+einem O
+polnischen B-LOC
+Durchgangsvisum B-TER
+passierten O
+Petrowitz B-LOC
+. O
+
+Lundenburg B-LOC
+meldete O
+die O
+Durchfahrt O
+von O
+70 O
+Personen O
+. O
+
