@@ -9,7 +9,7 @@ DISABLED = [
     "ner", "tok2vec", "tagger", "parser", "attribute_ruler", "lemmatizer"]
 
 # Variables to change depending on corpus
-corpus_directory = '../corpus/lang/tei/sk'
+corpus_directory = '../../lang_subset2_EN_DE/de'
 nlp = spacy.load("xx_sent_ud_sm")
 
 # sentence segmentation
@@ -17,10 +17,12 @@ nlp.add_pipe('sentencizer')
 
 def type_to_iob(enttype, idx):
     mapping = {
-        "persName": "PER",
+        "persName": "PERS",
         "placeName": "LOC",
         "orgName": "ORG",
-        "term": "TER",
+        "date": "DATE",
+        "ghetto": "GHETTO",
+        "camp": "CAMP"
     }
     iob = 'B' if idx == 0 else 'I'
     return '{}-{}'.format(iob, mapping.get(enttype))
@@ -44,15 +46,16 @@ annotations = []
 
 # We create a dictionary for storing entities count
 stats = {'entity': 
-{'PER': 0, 'LOC': 0,'ORG': 0,'TER': 0},
+{'PER': 0, 'LOC': 0, 'ORG': 0, 'CAMP': 0, 'DATE': 0, 'GHETTO': 0},
 'token': 0}
 
 # initiatilising counters
-token_counter = 0
 PER_counter = 0
 LOC_counter = 0
 ORG_counter = 0
-TER_counter = 0
+DATE_counter = 0
+CAMP_counter = 0
+GHETTO_counter = 0
 
 
 for subdir, dirs, files in os.walk(corpus_directory):
@@ -67,20 +70,32 @@ for subdir, dirs, files in os.walk(corpus_directory):
                 for p in elem.find_all("p"):
                     # we iterate on all children of <p>
                     for child in p.children:
-                        token_counter += 1
                         # same logic is used for remaining entities
-                        if child.name == 'term':
-                            TER_counter += 1
-                            for iob_tag in transform_to_iob(child):
-                                annotations.append([str(iob_tag[0]), iob_tag[1]])
                         
-                        elif child.name == 'placeName':
-                            LOC_counter += 1
-                            for iob_tag in transform_to_iob(child):
-                                annotations.append([str(iob_tag[0]), iob_tag[1]])
+                        if child.name == 'placeName':
+                            if child.has_attr('type'):
+                                if child['type'] == 'camp':
+                                    CAMP_counter += 1 
+                                    child.name = 'camp'
+                                    for iob_tag in transform_to_iob(child):
+                                        annotations.append([str(iob_tag[0]), iob_tag[1]])
+                                if child['type'] == 'ghetto':
+                                    GHETTO_counter += 1 
+                                    child.name = 'ghetto'
+                                    for iob_tag in transform_to_iob(child):
+                                        annotations.append([str(iob_tag[0]), iob_tag[1]])
+                            else:
+                                LOC_counter += 1 
+                                for iob_tag in transform_to_iob(child):
+                                    annotations.append([str(iob_tag[0]), iob_tag[1]])
 
                         elif child.name == 'orgName':
                             ORG_counter += 1
+                            for iob_tag in transform_to_iob(child):
+                                annotations.append([str(iob_tag[0]), iob_tag[1]])
+                        
+                        elif child.name == 'date':
+                            DATE_counter += 1
                             for iob_tag in transform_to_iob(child):
                                 annotations.append([str(iob_tag[0]), iob_tag[1]])
 
@@ -103,19 +118,24 @@ for subdir, dirs, files in os.walk(corpus_directory):
 stats['entity']['LOC'] += LOC_counter
 stats['entity']['PER'] += PER_counter
 stats['entity']['ORG'] += ORG_counter
-stats['entity']['TER'] += TER_counter
+stats['entity']['DATE'] += DATE_counter
+stats['entity']['GHETTO'] += GHETTO_counter
+stats['entity']['CAMP'] += CAMP_counter
 stats['token'] += len(annotations)
 
 
-with open(f'../corpus/lang/conll/sk/all/ehri-ner_sk_all.txt', mode='w+', encoding='utf-8') as iob_file:
+with open(f'../../lang/subset_2/de/ehri-ner_de_s1.txt', mode='w+', encoding='utf-8') as iob_file:
     for annotation in annotations:
         if annotation[0] == '.':
-            iob_file.write(' '.join(annotation) + '\n\n')
+            if annotation[1] == 'I-DATE':
+                iob_file.write(' '.join(annotation) + '\n')
+            else:
+                iob_file.write(' '.join(annotation) + '\n\n')
         elif annotation[0] == '"':
             pass
         else:
             iob_file.write(' '.join(annotation)+ '\n')
 
-with open(f'../corpus/lang/conll/sk/all/ehri-ner_sk_all_stats.txt', mode='w+', encoding='utf-8') as txt:
+with open(f'../../lang/subset_2/de/ehri-ner_de_s1_stats.txt', mode='w+', encoding='utf-8') as txt:
     txt.write(str(stats))
     
