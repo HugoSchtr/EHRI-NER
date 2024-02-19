@@ -4,9 +4,6 @@ A named entity recognition dataset built from EHRI digital editions (https://www
 
 Documents are sorted by languages.
 
-* **All** sub-directory: all annotated documents merged.
-* **Docs** sub-directory: each annotated document.
-
 ## Annotation format
 
 Each word has been put on a separate line and there is an empty line after each sentence. 
@@ -18,4 +15,6 @@ The annotations follow the conll2003 format (IOB).
 * **PER**
 * **LOC**
 * **ORG**
-* **TER** (EHRI terms)
+* **DATE**
+* **CAMP**
+* **GHETTO**

@@ -1,1 +1,0 @@
-{'entity': {'PER': 0, 'LOC': 3, 'ORG': 0, 'TER': 8}, 'token': 117}
