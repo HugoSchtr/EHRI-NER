@@ -2293,7 +2293,6 @@ questions O
 il O
 répondit O
 souvent O
-  O
 : O
 
 je O

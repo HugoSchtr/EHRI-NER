@@ -1,1 +1,1 @@
-{'entity': {'PER': 30, 'LOC': 158, 'ORG': 11, 'CAMP': 0, 'DATE': 21, 'GHETTO': 0}, 'token': 3554}
+{'entity': {'PER': 30, 'LOC': 158, 'ORG': 11, 'CAMP': 0, 'DATE': 21, 'GHETTO': 0}, 'token': 3550}

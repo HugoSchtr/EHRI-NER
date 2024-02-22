@@ -3291,7 +3291,6 @@ Prahe B-LOC
 . O
 
 K O
-  O
 telefonickej O
 zpráve O
 podanej O
@@ -3414,7 +3413,6 @@ francúzska B-LOC
 . O
 
 K O
-  O
 tomu O
 poriečny O
 plavebný O
@@ -3460,7 +3458,6 @@ teraz O
 prikotvená O
 prázdna O
 v O
-  O
 zimnom O
 prístave O
 . O
@@ -3510,7 +3507,6 @@ plavebného O
 úradu O
 sa O
 s O
-  O
 touto O
 loďou O
 nič O

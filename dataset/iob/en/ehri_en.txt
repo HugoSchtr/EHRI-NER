@@ -19374,7 +19374,6 @@ of O
 1st O
 inst O
 . O
-  O
 ) O
 had O
 already O
@@ -19554,7 +19553,6 @@ so O
 will O
 be O
 considered O
-  O
 as O
 spies O
 and O
@@ -27518,7 +27516,6 @@ of O
 20th O
 March O
 last O
-  O
 ) O
 and O
 the O
@@ -29622,7 +29619,6 @@ July I-DATE
 , O
 etc. O
 – O
-  O
 give O
 the O
 impression O
@@ -44095,7 +44091,6 @@ papal O
 nuncio O
 , O
 Séredy O
-  O
 and O
 the O
 King B-PERS
@@ -50264,7 +50259,6 @@ X O
 ft O
 . O
 – O
-  O
 was O
 allocated O
 . O
@@ -54587,7 +54581,6 @@ outstretched O
 in O
 a O
 half O
-  O
 ? O
 
 ? O
@@ -58945,7 +58938,6 @@ hangers O
 on O
 . O
 – O
-  O
 2./ O
 The O
 hard O
@@ -58957,7 +58949,6 @@ and O
 caregivers O
 . O
 – O
-  O
 3./ O
 The O
 old O
@@ -58969,7 +58960,6 @@ work O
 . O
 
 – O
-  O
 The O
 first O
 group O
@@ -58992,7 +58982,6 @@ unknown O
 destinations O
 . O
 – O
-  O
 The O
 second O
 group O
@@ -59024,7 +59013,6 @@ entirely O
 sated O
 . O
 – O
-  O
 The O
 third O
 group O
@@ -59043,7 +59031,6 @@ Group O
 1 O
 . O
 – O
-  O
 So O
 only O
 one O
@@ -59148,7 +59135,6 @@ ill O
 . O
 
 – O
-  O
 Most O
 of O
 these O
@@ -59261,7 +59247,6 @@ Germans O
 . O
 
 – O
-  O
 Of O
 our O
 closer O

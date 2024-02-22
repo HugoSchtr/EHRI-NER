@@ -9243,7 +9243,6 @@ Szappan O
 fogkefe O
 , O
 törülköző O
-  O
 ? O
 
 Hát O
@@ -21191,7 +21190,6 @@ egyáltalában O
 mit O
 keresek O
 itt O
-  O
 ? O
 
 Egy O

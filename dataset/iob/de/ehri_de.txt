@@ -11211,43 +11211,31 @@ Personen O
 Geburtsland O
 Männer O
 Frauen O
-   O
 Deutsches O
 Reich O
 33.121 O
 35.652 O
-   O
 Polen O
 12.207 O
 11.188 O
-   O
 CSR O
 4.391 O
-  O
 5.575 O
-   O
 Ungarn O
 1.735 O
-  O
 1.876 O
-   O
 Rumänien O
 2.194 O
 1.831 O
-   O
 Russland O
 405 O
-  O
 273 O
-   O
 Jugoslawien O
 211 O
 246 O
-   O
 Verschiedene O
 Länder O
 288 O
-  O
 247 O
 In O
 6.597 O
@@ -24876,7 +24864,6 @@ H. O
 W. O
 W. O
 – O
-  O
 hebräische O
 Zeitschriften O
 , O
@@ -95823,7 +95810,6 @@ Köln B-LOC
 D. O
 J. O
 – O
-  O
 Auf O
 Anordnung O
 des O
@@ -115438,7 +115424,6 @@ aktenmässig O
 vermerkt O
 . O
 – O
-  O
 Diese O
 Vernehmungen O
 führten O
@@ -116693,7 +116678,6 @@ Angehörigen O
 . O
 
 – O
-  O
 Solche O
 waren O
 : O
@@ -116857,7 +116841,6 @@ Vergehen O
 . O
 
 – O
-  O
 Dies O
 strafte O
 man O
@@ -118504,7 +118487,6 @@ Lachmann O
 verschafft O
 . O
 – O
-  O
 Er O
 leistete O
 ganz O
@@ -118727,7 +118709,6 @@ ermordet O
 . O
 
 – O
-  O
 Fernschreiben O
 und O
 Steckbriefe O
@@ -120945,7 +120926,6 @@ Alter O
 ( O
 18 O
 Jahre O
-  O
 ! O
 
 ) O
@@ -142760,7 +142740,6 @@ ausser O
 Takt O
 ist O
 . O
-  O
 Der O
 Name O
 meiner O
@@ -145560,7 +145539,6 @@ p.4 O
 . O
 
 – O
-  O
 NAZI O
 SPIES O
 ( O
@@ -159228,7 +159206,6 @@ rechnen O
 sondern O
 wurde O
 von O
-  O
 der O
 Gestapo B-ORG
 unweigerlich O
@@ -169488,7 +169465,6 @@ versteckte O
 , O
 und O
 sagte O
-  O
 : O
 
 Heute O
@@ -169897,7 +169873,6 @@ haben O
 die O
 Deutschen B-LOC
 40 O
-  O
 000 O
 Juden O
 umgebracht O
@@ -170074,7 +170049,6 @@ war O
 Darauf O
 sagte O
 sie O
-  O
 : O
 
 Warum O
@@ -173382,7 +173356,6 @@ beruhigen O
 Ich O
 werde O
 versuchen O
-  O
 eine O
 Unterkunft O
 für O
@@ -180178,7 +180151,6 @@ LABOUR O
 ; O
 
 ( O
-  O
 first O
 for O
 men O
@@ -190836,11 +190808,9 @@ MASTER O
 - O
 INDEX O
 ( O
-  O
 P O
 - O
 Scheme O
-  O
 ) O
 1 O
 . O
@@ -195932,7 +195902,6 @@ den O
 
 ] O
 2 O
-  O
 ? O
 
 Wochen O
@@ -199850,7 +199819,6 @@ zu O
 erleichtern O
 . O
 – O
-  O
 In O
 dieser O
 schweren O
@@ -200493,7 +200461,6 @@ entgegengekommen O
 . O
 
 – O
-  O
 Wir O
 versuchten O
 , O
@@ -201611,7 +201578,6 @@ Kleinkinderheim O
 . O
 
 – O
-  O
 In O
 der O
 offenen B-ORG
@@ -201749,7 +201715,6 @@ unterstützten O
 . O
 
 – O
-  O
 Als O
 Leiterin O
 einer O
@@ -213392,7 +213357,6 @@ San I-LOC
 . O
 
 – O
-  O
 Ankomme O
 in O
 Maehr.-Ostrau B-LOC

@@ -2159,7 +2159,6 @@ píše O
 : O
 
 Z O
-  O
 členských O
 kruhů O
 upozorňováno O
@@ -2199,7 +2198,6 @@ rumunsky B-LOC
 hovořících O
 Židů O
 v O
-  O
 typickém O
 oděvu O
 balkánských O
@@ -2289,7 +2287,6 @@ rumunského B-LOC
 se O
 spojila O
 s O
-  O
 různými O
 padělatelskými O
 dílnami O
@@ -2310,7 +2307,6 @@ do O
 zemí O
 , O
 v O
-  O
 nichž O
 izraelité O
 pravděpodobně O
@@ -2384,7 +2380,6 @@ bylo O
 podruhé O
 vyhlédnuto O
 k O
-  O
 tomu O
 , O
 aby O
@@ -2412,7 +2407,6 @@ jiný O
 : O
 
 v O
-  O
 roce O
 1934 O
 bylo O
@@ -2425,7 +2419,6 @@ Ruska O
 . O
 
 V O
-  O
 roce O
 1938 O
 se O
@@ -2446,7 +2439,6 @@ V O
 Brně B-LOC
 nebo O
 v O
-  O
 jeho O
 nejbližším O
 okolí O
@@ -2522,7 +2514,6 @@ lid O
 však O
 není O
 v O
-  O
 žádném O
 případě O
 ochoten O
@@ -2563,7 +2554,6 @@ obyvatelstvo O
 Hraničilo O
 by O
 s O
-  O
 čirým O
 šílenstvím O
 , O
@@ -2581,7 +2571,6 @@ k O
 dalšímu O
 stěhování O
 z O
-  O
 východu O
 , O
 který O
@@ -2591,7 +2580,6 @@ všem O
 nechvalně O
 znám O
 z O
-  O
 poválečné O
 doby O
 . O
@@ -2611,7 +2599,6 @@ a O
 náležitě O
 braly O
 v O
-  O
 úvahu O
 přání O
 domácího O
@@ -7406,7 +7393,6 @@ obvodu O
 tohoto O
 úřadu O
 v O
-  O
 době O
 od O
 11 B-DATE
@@ -7438,7 +7424,6 @@ Břeclavi B-LOC
 . O
 
 Z O
-  O
 protokolárních O
 výslechů O
 těchto O
@@ -7451,7 +7436,6 @@ překročili O
 . O
 hranice O
 v O
-  O
 ranních O
 , O
 poledních O
@@ -7519,7 +7503,6 @@ zdejší O
 . O
 
 Z O
-  O
 těchto O
 emigrantů O
 jet O
@@ -7615,7 +7598,6 @@ strachu O
 . O
 
 Z O
-  O
 celkového O
 počtu O
 48 O
@@ -7683,7 +7665,6 @@ lhůta O
 14 O
 dní O
 k O
-  O
 přechodnému O
 pobytu O
 , O
@@ -8202,7 +8183,6 @@ trojmo O
 protokol O
 sepsaný O
 s O
-  O
 osobami O
 vypovězenými O
 z O
@@ -8250,7 +8230,6 @@ o O
 hod O
 . O
 v O
-  O
 kanceláři O
 celního O
 úřadu O
@@ -8354,11 +8333,9 @@ jsem O
 byl O
 ještě O
 s O
-  O
 jedním O
 mužem O
 v O
-  O
 doprovodu O
 jednoho O
 policejního O
@@ -8500,11 +8477,9 @@ byl O
 jsem O
 ještě O
 s O
-  O
 jedním O
 mužem O
 v O
-  O
 doprovodu O
 1 O
 policejních O
@@ -8593,12 +8568,10 @@ Schiffgasse O
 
 Odsun O
 z O
-  O
 Rakouska O
 . O
 
 S O
-  O
 odvoláním O
 na O
 dopis O
@@ -8629,7 +8602,6 @@ dne O
 března O
 1938 O
 z O
-  O
 ohledu O
 veřejného O
 pořádku O
@@ -8637,7 +8609,6 @@ a O
 bezpečnosti O
 odsunut O
 z O
-  O
 Rakouska O
 a O
 29 O
@@ -8667,7 +8638,6 @@ doléhá O
 na O
 Židy O
 v O
-  O
 Rakousku O
 . O
 
@@ -8698,7 +8668,6 @@ prostředky O
 , O
 které O
 s O
-  O
 otevřenou O
 plánovitostí O
 slouží O
@@ -8718,7 +8687,6 @@ základnu O
 a O
 vyvolaly O
 v O
-  O
 něm O
 dojem O
 , O
@@ -8750,7 +8718,6 @@ drastické O
 metody O
 praktikované O
 v O
-  O
 pohraničních O
 oblastech O
 . O
@@ -8789,7 +8756,6 @@ zbaveni O
 majetku O
 , O
 v O
-  O
 noci O
 na O
 člunech O
@@ -8878,7 +8844,6 @@ počet O
 Židů O
 vyhnaných O
 z O
-  O
 dalších O
 pohraničních O
 obcí O
@@ -8886,7 +8851,6 @@ obcí O
 
 Tváří O
 v O
-  O
 tvář O
 těmto O
 srdcervoucím O
@@ -8911,7 +8875,6 @@ podporu O
 Židů O
 donucených O
 k O
-  O
 emigraci O
 . O
 
@@ -8996,7 +8959,6 @@ plány O
 ovšem O
 vzhledem O
 k O
-  O
 rapidně O
 stoupajícímu O
 počtu O
@@ -9022,7 +8984,6 @@ ně O
 , O
 a O
 k O
-  O
 tomu O
 , O
 aby O
@@ -9076,7 +9037,6 @@ všechny O
 našeho O
 svazu O
 s O
-  O
 usilovnou O
 a O
 naléhavou O
@@ -9095,7 +9055,6 @@ ušlechtilý O
 , O
 2./ O
 v O
-  O
 kruhu O
 členů O
 vaší O
@@ -9119,14 +9078,12 @@ příležitosti O
 . O
 
 s O
-  O
 oddanými O
 židovskými O
 pozdravy O
 : O
 
 s O
-  O
 veškerou O
 úctou O
 : O
@@ -10451,14 +10408,12 @@ OSTROVY O
 . O
 
 – O
-  O
 HROZNÉ O
 BARBARSTVÍ O
 RASISMU O
 . O
 
 – O
-  O
 ČTYŘI O
 LIDÉ O
 JIŽ O
@@ -10496,10 +10451,8 @@ vyhnanců O
 . O
 
 V O
-  O
 sobotu O
 v O
-  O
 noci O
 totiž O
 přišli O
@@ -10524,7 +10477,6 @@ rodin O
 Donucovali O
 je O
 k O
-  O
 tomu O
 , O
 aby O
@@ -10562,7 +10514,6 @@ a O
 , O
 nejmladší O
 z O
-  O
 vyhoštěných O
 je O
 dvouleté O
@@ -10574,7 +10525,6 @@ kmet O
 . O
 
 V O
-  O
 neděli O
 ráno O
 nalezla O
@@ -10667,7 +10617,6 @@ Německa B-LOC
 
 Zde O
 v O
-  O
 lesní O
 samotě O
 je O
@@ -10701,12 +10650,10 @@ soucitu O
 přinášeli O
 něco O
 k O
-  O
 jídlu O
 . O
 
 V O
-  O
 úterý O
 se O
 podle O
@@ -10777,7 +10724,6 @@ rakouské B-LOC
 , O
 15 O
 z O
-  O
 nich O
 se O
 vrátilo O
@@ -10788,7 +10734,6 @@ bod O
 kde O
 nejsou O
 v O
-  O
 dosahu O
 úderníků O
 . O
@@ -10800,7 +10745,6 @@ a O
 jsou O
 nyní O
 v O
-  O
 moci O
 německých B-LOC
 úřadů O
@@ -10811,14 +10755,12 @@ které O
 je O
 ubytovaly O
 v O
-  O
 nějakém O
 sklepě O
 . O
 
 Čtyři O
 z O
-  O
 vyhoštěnců O
 již O
 zahynuli O
@@ -10833,11 +10775,9 @@ dva O
 se O
 utopili O
 v O
-  O
 lesních O
 močálech O
 v O
-  O
 okolí O
 , O
 když O
@@ -10854,7 +10794,6 @@ nepochybné O
 , O
 že O
 v O
-  O
 nejbližším O
 příhodném O
 okamžiku O
@@ -10866,7 +10805,6 @@ zbývajících O
 32 O
 osob O
 v O
-  O
 některém O
 pohraničním O
 místě O
@@ -10920,7 +10858,6 @@ obchodnici O
 
 Dva O
 z O
-  O
 nich O
 mají O
 ženy O
@@ -10931,7 +10868,6 @@ vyznání O
 Když O
 jim O
 v O
-  O
 sobotu O
 oznámili O
 údernici O
@@ -10944,7 +10880,6 @@ Rakousko B-LOC
 , O
 chtěli O
 s O
-  O
 nimi O
 jít O
 i O
@@ -11188,7 +11123,6 @@ o O
 neoficiální O
 radu O
 v O
-  O
 následující O
 záležitosti O
 . O
@@ -11248,7 +11182,6 @@ vydaly O
 celozemskou O
 výzvu O
 k O
-  O
 této O
 sbírce O
 , O
@@ -11281,7 +11214,6 @@ však O
 určité O
 pochybnosti O
 v O
-  O
 tom O
 smyslu O
 , O
@@ -11303,7 +11235,6 @@ ct.[ěný O
 ] O
 názor O
 v O
-  O
 této O
 věci O
 dotazuji O
@@ -12653,13 +12584,11 @@ e O
 : O
 
 V O
-  O
 odpověď O
 na O
 Váš O
 dopis O
 z O
-  O
 26 O
 . O
 července O
@@ -12729,12 +12658,10 @@ evidujeme O
 847 O
 emigrantů O
 v O
-  O
 naší O
 péči O
 , O
 z O
-  O
 nichž O
 je O
 210 O
@@ -12773,7 +12700,6 @@ nejméně O
 Kč O
 , O
 v O
-  O
 průměru O
 však O
 8 O
@@ -12790,7 +12716,6 @@ prostředky O
 ve O
 výši O
 6 O
-  O
 800 O
 Kč O
 , O
@@ -12814,7 +12739,6 @@ shromáždili O
 . O
 
 V O
-  O
 úvahu O
 je O
 třeba O
@@ -12854,14 +12778,12 @@ zámoří O
 které O
 činí O
 5 O
-  O
 000.-- O
 Kč O
 na O
 osobu O
 , O
 v O
-  O
 některých O
 případech O
 však O
@@ -12911,7 +12833,6 @@ finanční O
 prostředky O
 vystačují O
 v O
-  O
 současné O
 době O
 jen O
@@ -12935,7 +12856,6 @@ ve O
 výši O
 cca O
 24 O
-  O
 000.-- O
 Kč O
 , O
@@ -13008,7 +12928,6 @@ celkem O
 osob O
 , O
 z O
-  O
 nichž O
 bylo O
 nyní O
@@ -13106,7 +13025,6 @@ jedna O
 50letá O
 žena O
 s O
-  O
 těžkou O
 cukrovkou O
 a O
@@ -13133,7 +13051,6 @@ z O
 Vídně B-LOC
 , O
 s O
-  O
 příkazem O
 policejního O
 prezidia O
@@ -13141,11 +13058,9 @@ prezidia O
 aby O
 byli O
 v O
-  O
 pondělí O
 odsunuti O
 do O
-  O
 Polska O
 . O
 
@@ -13162,7 +13077,6 @@ státní O
 příslušnosti O
 , O
 z O
-  O
 nichž O
 někteří O
 museli O
@@ -13311,7 +13225,6 @@ a O
 ministra O
 Černého O
 s O
-  O
 prosbou O
 , O
 aby O
@@ -13367,7 +13280,6 @@ výsledek O
 tato O
 akce O
 s O
-  O
 telegramy O
 dodnes O
 nemá O
@@ -13453,7 +13365,6 @@ jsme O
 podrobně O
 vylíčili O
 v O
-  O
 našem O
 prvním O
 memorandu O
@@ -13467,7 +13378,6 @@ Vás O
 , O
 abyste O
 v O
-  O
 návaznosti O
 na O
 úvahy O
@@ -13475,7 +13385,6 @@ tam O
 obsažené O
 působil O
 v O
-  O
 našem O
 smyslu O
 . O
@@ -13583,7 +13492,6 @@ to O
 , O
 že O
 v O
-  O
 posledních O
 dnech O
 zde O
@@ -13619,7 +13527,6 @@ měnit O
 
 Vzhledem O
 k O
-  O
 tomu O
 , O
 že O
@@ -13645,7 +13552,6 @@ práva O
 pro O
 uprchlíky O
 k O
-  O
 rychlému O
 zásadnímu O
 řešení O
@@ -13660,7 +13566,6 @@ víc O
 , O
 že O
 v O
-  O
 příštích O
 dnech O
 má O
@@ -13717,7 +13622,6 @@ se O
 mohli O
 domluvit O
 s O
-  O
 Vámi O
 . O
 
@@ -13772,7 +13676,6 @@ která O
 bude O
 sestávat O
 z O
-  O
 pánů O
 reprezentujících O
 Pomocné O
@@ -13789,12 +13692,10 @@ by O
 návštěva O
 nebyla O
 z O
-  O
 nějakého O
 důvodu O
 možná O
 v O
-  O
 úterý O
 nebo O
 ve O
@@ -16167,7 +16068,6 @@ který O
 byv O
 napomenut O
 k O
-  O
 udání O
 pravdy O
 , O
@@ -16182,7 +16082,6 @@ takto O
 1 O
 . O
 K O
-  O
 otázkám O
 všeobecným O
 : O
@@ -16273,7 +16172,6 @@ poměr O
 
 odveden O
 v O
-  O
 r. O
 1906 O
 , O
@@ -16355,7 +16253,6 @@ trestu O
 2 O
 . O
 K O
-  O
 otázkám O
 zvláštním O
 : O
@@ -16370,7 +16267,6 @@ let O
 jsem O
 bydlel O
 s O
-  O
 rodiči O
 v O
 Olomouci B-LOC
@@ -16425,7 +16321,6 @@ ppl O
 
 54 O
 v O
-  O
 Sanžaku O
 – O
 Novém O
@@ -16470,7 +16365,6 @@ Sieghard I-LOC
 u O
 Waidhofenu B-LOC
 v O
-  O
 býv O
 . O
 
@@ -16492,7 +16386,6 @@ rodičích O
 , O
 ale O
 v O
-  O
 roce O
 1916 B-DATE
 jsem O
@@ -16575,7 +16468,6 @@ hlavní O
 
 Mám O
 s O
-  O
 ní O
 3 O
 děti O
@@ -16734,7 +16626,6 @@ směrem O
 Nová B-LOC
 Bystřice I-LOC
 v O
-  O
 Čechách O
 . O
 
@@ -16893,7 +16784,6 @@ Praze B-LOC
 
 Mám O
 v O
-  O
 úmyslu O
 pokusiti O
 se O
@@ -18345,7 +18235,6 @@ Hugo I-PERS
 Šanghaj B-LOC
 Žije O
 v O
-  O
 podnájmu O
 , O
 nábytek O
@@ -18356,7 +18245,6 @@ přibližně O
 ŘM O
 je O
 v O
-  O
 prodeji O
 . O
 
@@ -18373,7 +18261,6 @@ práce O
 pobírá O
 podporu O
 v O
-  O
 nezaměstnanosti O
 ve O
 výši O
@@ -21454,7 +21341,6 @@ se O
 
 asi O
 500 O
-  O
 :/ O
 zacházeli O
 jako O
@@ -26023,7 +25909,6 @@ jsme O
 se O
 smířili O
 s O
-  O
 myšlenkou O
 , O
 že O
@@ -26079,7 +25964,6 @@ připravené O
 
 Ještě O
 v O
-  O
 ten O
 den O
 , O
@@ -26092,7 +25976,6 @@ Rahmem B-PERS
 začali O
 jsme O
 s O
-  O
 chystáním O
 věcí O
 a O
@@ -26149,14 +26032,12 @@ málo O
 Počítali O
 jsme O
 s O
-  O
 možností O
 , O
 že O
 zavazadla O
 nedojdou O
 v O
-  O
 pořádku O
 , O
 nebo O
@@ -26241,7 +26122,6 @@ zavazadla O
 vystačily O
 bychom O
 s O
-  O
 tím O
 nejméně O
 na O
@@ -26366,7 +26246,6 @@ Jsou O
 zde O
 děti O
 v O
-  O
 každém O
 stáří O
 . O
@@ -26400,7 +26279,6 @@ smrti O
 . O
 
 V O
-  O
 noci O
 se O
 nám O
@@ -26421,7 +26299,6 @@ a O
 loučím O
 se O
 s O
-  O
 místy O
 , O
 kde O
@@ -26459,7 +26336,6 @@ zdřímla O
 . O
 
 V O
-  O
 7 O
 h O
 ráno O
@@ -26479,12 +26355,10 @@ na O
 starost O
 děti O
 z O
-  O
 našeho O
 domova O
 , O
 s O
-  O
 kterými O
 jsme O
 prodělaly O
@@ -26505,7 +26379,6 @@ asi O
 a O
 jdou O
 s O
-  O
 námi O
 taky O
 nějaké O
@@ -26531,7 +26404,6 @@ a O
 opatrovnice O
 , O
 v O
-  O
 poslední O
 chvíli O
 nám O
@@ -26648,7 +26520,6 @@ lidma O
 a O
 vědro O
 s O
-  O
 výkaly O
 , O
 které O
@@ -26658,7 +26529,6 @@ vyprázdnit O
 , O
 přispívá O
 k O
-  O
 tomu O
 svým O
 dílem O
@@ -26703,7 +26573,6 @@ Náhodou O
 má O
 někdo O
 s O
-  O
 sebou O
 kleště O
 . O
@@ -26769,7 +26638,6 @@ totéž O
 , O
 vypadl O
 z O
-  O
 okna O
 drát O
 . O
@@ -26797,7 +26665,6 @@ ve O
 voze O
 byl O
 k O
-  O
 nesnesení O
 , O
 a O
@@ -26833,7 +26700,6 @@ jsme O
 si O
 vezli O
 s O
-  O
 sebou O
 do O
 Terezína B-GHETTO
@@ -26963,7 +26829,6 @@ Birkenau B-CAMP
 . O
 
 V O
-  O
 našich O
 představách O
 je O
@@ -27037,7 +26902,6 @@ uvidíme O
 snad O
 některý O
 z O
-  O
 nich O
 bude O
 na O
@@ -27176,7 +27040,6 @@ se O
 štěrbinou O
 ven O
 z O
-  O
 okna O
 . O
 
@@ -27191,7 +27054,6 @@ kolem O
 dokola O
 dráty O
 s O
-  O
 elektrickým O
 napětím O
 . O
@@ -27207,7 +27069,6 @@ Koncentrák O
 , O
 dráty O
 s O
-  O
 elektrickým O
 napětím O
 . O
@@ -27436,7 +27297,6 @@ minut O
 se O
 dostáváme O
 z O
-  O
 cesty O
 mezi O
 spleť O
@@ -27597,7 +27457,6 @@ to O
 že O
 jsou O
 v O
-  O
 místnosti O
 muži O
 . O
@@ -27629,16 +27488,13 @@ nohou O
 držíme O
 je O
 v O
-  O
 ruce O
 . O
 
 Jdeme O
 v O
-  O
 řadě O
 k O
-  O
 lavici O
 , O
 kde O
@@ -27660,7 +27516,6 @@ bezcenné O
 Stojíme O
 nahé O
 v O
-  O
 řadě O
 a O
 vidíme O
@@ -27675,7 +27530,6 @@ uložili O
 na O
 zem O
 v O
-  O
 hromádkách O
 , O
 se O
@@ -27747,14 +27601,12 @@ stranou O
 . O
 
 V O
-  O
 další O
 místnosti O
 nám O
 odebírají O
 sponky O
 z O
-  O
 vlasů O
 a O
 hřebínky O
@@ -27765,7 +27617,6 @@ tam O
 několik O
 žen O
 s O
-  O
 holícími O
 aparáty O
 . O
@@ -27791,7 +27642,6 @@ a O
 baví O
 se O
 s O
-  O
 jinou O
 v O
 uniformě O
@@ -27801,7 +27651,6 @@ SSáka O
 Vidíme O
 poprvé O
 v O
-  O
 životě O
 ženy O
 , O
@@ -27832,7 +27681,6 @@ vidíme O
 jak O
 první O
 z O
-  O
 nás O
 zajíždějí O
 strojkem O
@@ -27851,7 +27699,6 @@ za O
 chvíli O
 je O
 z O
-  O
 hezké O
 a O
 pěstěné O
@@ -27908,7 +27755,6 @@ sprchy O
 Boty O
 držíme O
 v O
-  O
 ruce O
 jako O
 cennost O
@@ -27970,7 +27816,6 @@ neukradli O
 bereme O
 je O
 s O
-  O
 sebou O
 pod O
 sprchy O
@@ -28018,7 +27863,6 @@ sprch O
 , O
 stojíme O
 v O
-  O
 další O
 studené O
 místnosti O
@@ -28063,7 +27907,6 @@ balík O
 hader O
 , O
 z O
-  O
 kterého O
 se O
 prášilo O
@@ -28087,7 +27930,6 @@ roztrhané O
 , O
 které O
 v O
-  O
 mnoha O
 případech O
 nestačily O
@@ -28145,12 +27987,10 @@ jinou O
 Párují O
 šedou O
 s O
-  O
 černou O
 , O
 bílou O
 s O
-  O
 hnědou O
 , O
 a O
@@ -28373,7 +28213,6 @@ o O
 situaci O
 , O
 v O
-  O
 jaké O
 jsme O
 byly O
@@ -28384,7 +28223,6 @@ kamenné O
 podlaze O
 , O
 v O
-  O
 zimě O
 , O
 špíně O
@@ -28671,7 +28509,6 @@ lidí O
 
 vesměs O
 Židů O
-  O
 :/ O
 , O
 ke O
@@ -28740,7 +28577,6 @@ byl O
 tam O
 tábor O
 v O
-  O
 počtu O
 asi O
 5000 O
@@ -28767,11 +28603,9 @@ válečných O
 zajatců O
 , O
 z O
-  O
 Jugoslávců O
 a O
 z O
-  O
 příslušníků O
 jiných O
 národností O
@@ -28791,7 +28625,6 @@ vládly O
 v O
 táboře O
 v O
-  O
 období O
 našeho O
 příjezdu O
@@ -28829,7 +28662,6 @@ Gross B-CAMP
 Rosenu B-CAMP
 a O
 z O
-  O
 jiných O
 koncentračních O
 táborů O
@@ -28872,7 +28704,6 @@ lidmi O
 . O
 
 K O
-  O
 těmto O
 jsme O
 byli O
@@ -28954,14 +28785,12 @@ byla O
 pracovní O
 doba O
 s O
-  O
 nepatrnou O
 polední O
 přestávkou O
 . O
 
 V O
-  O
 21hod O
 . O
 jsme O
@@ -29001,7 +28830,6 @@ ke O
 spánku O
 teprve O
 v O
-  O
 půlnoci O
 . O
 
@@ -29012,7 +28840,6 @@ těžká O
 práce O
 , O
 s O
-  O
 tím O
 spojené O
 vysílení O
@@ -29023,7 +28850,6 @@ infekční O
 nemoce O
 , O
 z O
-  O
 nichž O
 řádila O
 zejména O
@@ -29049,7 +28875,6 @@ uvádí O
 , O
 že O
 z O
-  O
 200 O
 terezínských B-GHETTO
 Židů O
@@ -29130,7 +28955,6 @@ zemí O
 sestávala O
 hlavně O
 z O
-  O
 nakládání O
 kamenů O
 a O
@@ -29258,7 +29082,6 @@ vězňů O
 se O
 chovala O
 k O
-  O
 nám O
 dobře O
 jenom O
@@ -29329,7 +29152,6 @@ VII I-DATE
 . I-DATE
 1945 I-DATE
 Za O
-  O
 archiv O
 : O
 
@@ -38061,7 +37883,6 @@ muži O
 
 0 O
 - O
-  O
 ? O
 
 0.000 O
@@ -49285,7 +49106,6 @@ Gestapo B-ORG
 . O
 
 – O
-  O
 vypravuje O
 Mario B-PERS
 – O
@@ -84025,7 +83845,6 @@ dne O
 1945 I-DATE
 Č. O
 j. O
-  O
 : O
 
 368/ O
@@ -90915,7 +90734,6 @@ jsem O
 přišel O
 spolu O
 s O
-  O
 asi O
 500 O
 muži O
@@ -90954,7 +90772,6 @@ nehladověli O
 . O
 
 S O
-  O
 rostoucí O
 zimou O
 se O
@@ -91010,7 +90827,6 @@ ztracen O
 Bydlili O
 jsme O
 v O
-  O
 t. O
 zv O
 . O
@@ -91022,7 +90838,6 @@ dlouhé O
 podzemní O
 baráky O
 s O
-  O
 jedním O
 oknem O
 , O
@@ -91051,7 +90866,6 @@ lžíci O
 Pracoval O
 jsem O
 v O
-  O
 t. O
 zv O
 . O
@@ -91062,7 +90876,6 @@ komandu O
 – O
 výkop O
 v O
-  O
 lese O
 . O
 
@@ -91100,7 +90913,6 @@ města O
 , O
 skrytého O
 v O
-  O
 lese O
 . O
 
@@ -91116,7 +90928,6 @@ tábora O
 . O
 
 V O
-  O
 prvních O
 měsících O
 jsi O
@@ -91180,7 +90991,6 @@ chleba O
 denně O
 , O
 k O
-  O
 tomu O
 Zulagy O
 /2 O
@@ -91227,7 +91037,6 @@ vodu O
 polévku O
 / O
 v O
-  O
 poledne O
 na O
 pracovišti O
@@ -91371,7 +91180,6 @@ Krankenlágru O
 
 Každý O
 z O
-  O
 nás O
 věděl O
 , O
@@ -91409,7 +91217,6 @@ pracovalo O
 12 O
 hodin O
 s O
-  O
 půlhodinovou O
 přestávkou O
 a O
@@ -91439,7 +91246,6 @@ miska O
 studeného O
 čaje O
 z O
-  O
 trávy O
 . O
 
@@ -91472,7 +91278,6 @@ lágru I-CAMP
 Celkem O
 se O
 z O
-  O
 1500 O
 mužů O
 , O
@@ -91564,7 +91369,6 @@ poměry O
 zlepšily O
 a O
 v O
-  O
 posledních O
 týdnech O
 jsme O
@@ -91603,7 +91407,6 @@ se O
 po O
 případě O
 s O
-  O
 trochou O
 štěstí O
 a O
@@ -91817,7 +91620,6 @@ dva O
 hrozné O
 dny O
 v O
-  O
 nepopsatelné O
 špíně O
 a O
@@ -91859,7 +91661,6 @@ spíše O
 dolezl O
 jsem O
 k O
-  O
 nádraží O
 u O
 Holzmanna O
@@ -91881,14 +91682,12 @@ já O
 jsem O
 si O
 s O
-  O
 posledním O
 vypětím O
 energie O
 vybojoval O
 místo O
 v O
-  O
 krytém O
 vagoně O
 , O
@@ -91964,7 +91763,6 @@ příliš O
 slabý O
 a O
 z O
-  O
 vagonu O
 jsem O
 se O
@@ -92012,7 +91810,6 @@ Dachau B-CAMP
 jsme O
 ještě O
 v O
-  O
 noci O
 / O
 28 B-DATE
@@ -93348,7 +93145,6 @@ neskonale O
 jsme O
 konečně O
 s O
-  O
 Vámi O
 v O
 písemném O
@@ -93358,7 +93154,6 @@ můžeme O
 Vám O
 psát O
 v O
-  O
 naší O
 mateřštině O
 . O
@@ -93403,7 +93198,6 @@ se O
 s O
 Hankou B-PERS
 z O
-  O
 celé O
 rodiny O
 úplně O
@@ -93472,12 +93266,10 @@ a O
 rodiče O
 byli O
 v O
-  O
 kanceláři O
 , O
 Hanka B-PERS
 v O
-  O
 pekárně O
 a O
 já O
@@ -93494,7 +93286,6 @@ nemocná O
 
 Pak O
 v O
-  O
 roce O
 44 B-DATE
 na O
@@ -93595,7 +93386,6 @@ prac O
 tábora O
 , O
 v O
-  O
 kterém O
 byl O
 , O
@@ -93665,7 +93455,6 @@ a O
 bydlíme O
 teď O
 s O
-  O
 ním O
 pohromadě O
 . O
@@ -93691,7 +93480,6 @@ a O
 nevěřila O
 ani O
 v O
-  O
 můj O
 návrat O
 . O
@@ -93762,7 +93550,6 @@ nevíme O
 . O
 
 S O
-  O
 Maruškou O
 jsme O
 ve O
@@ -93838,7 +93625,6 @@ byl O
 v O
 Osvětímě B-LOC
 v O
-  O
 lágru O
 E O
 sestaven O
@@ -93947,7 +93733,6 @@ Bertl B-PERS
 Simonsohn I-PERS
 se O
 k O
-  O
 tomu O
 přidali O
 . O
@@ -93978,7 +93763,6 @@ zajímavé O
 , O
 že O
 z O
-  O
 tohoto O
 transportu O
 zůstali O
@@ -95737,7 +95521,6 @@ Hugaček B-PERS
 že O
 dělá O
 v O
-  O
 pekárně O
 , O
 a O
@@ -95845,7 +95628,6 @@ jsem O
 po O
 úrazu O
 v O
-  O
 dole O
 těžký O
 výron O
@@ -95861,7 +95643,6 @@ Max B-PERS
 byl O
 Vorarbeitrem O
 v O
-  O
 odpolední O
 šichtě O
 . O
@@ -95896,7 +95677,6 @@ Haliče B-LOC
 
 Jeden O
 z O
-  O
 nich O
 utekl O
 při O
@@ -95932,11 +95712,9 @@ je O
 to O
 jeden O
 z O
-  O
 největších O
 vrahů O
 z O
-  O
 celého O
 Auschwitz B-LOC
 , O
@@ -95944,7 +95722,6 @@ Birkenau B-LOC
 a O
 okolí/ O
 v O
-  O
 podnapilém O
 stavu O
 dal O
@@ -96177,7 +95954,6 @@ Brna B-LOC
 a O
 Prahy B-LOC
 v O
-  O
 roku O
 1941 B-DATE
 . O
@@ -96196,7 +95972,6 @@ hnutí O
 mládeže O
 , O
 z O
-  O
 kterého O
 vyšli O
 , O
@@ -96210,7 +95985,6 @@ prosazovali O
 pro O
 ně O
 v O
-  O
 nejhorším O
 lepší O
 podmínky O
@@ -96272,7 +96046,6 @@ Edelstein I-PERS
 , O
 který O
 v O
-  O
 těžké O
 a O
 zodpovědné O
@@ -96302,7 +96075,6 @@ jasnou O
 analysou O
 přispěl O
 k O
-  O
 rozhodnutí O
 ve O
 prospěch O
@@ -96315,13 +96087,11 @@ a O
 krutému O
 , O
 v O
-  O
 neprospěch O
 starých O
 , O
 ale O
 z O
-  O
 tehdejšího O
 hlediska O
 jedinému O
@@ -96417,7 +96187,6 @@ zná O
 pohled O
 , O
 v O
-  O
 kterém O
 bylo O
 tolik O
@@ -96438,7 +96207,6 @@ ví O
 že O
 děti O
 v O
-  O
 noci O
 probuzející O
 se O
@@ -96526,7 +96294,6 @@ pořádaly O
 časté O
 večery O
 s O
-  O
 programem O
 . O
 
@@ -96577,7 +96344,6 @@ v O
 domovech O
 vykazovala O
 v O
-  O
 době O
 největšího O
 počtu O
@@ -96588,7 +96354,6 @@ Terezíně B-GHETTO
 t.j O
 . O
 v O
-  O
 létě O
 1943 B-DATE
 , O
@@ -96616,13 +96381,11 @@ kojence O
 
 jednak O
 v O
-  O
 domově O
 pro O
 batolata O
 spolu O
 s O
-  O
 matkami O
 a O
 personálem O
@@ -96666,7 +96429,6 @@ personálu/ O
 , O
 dále O
 z O
-  O
 české O
 , O
 německé O
@@ -96704,7 +96466,6 @@ a O
 obstarávaly O
 jim O
 v O
-  O
 rámci O
 možností O
 vše O
@@ -96764,17 +96525,14 @@ povinnosti O
 . O
 
 K O
-  O
 tomu O
 účelů O
 bylo O
 zřízeno O
 v O
-  O
 úzké O
 spolupráci O
 s O
-  O
 referátem O
 mládeže O
 a O
@@ -96791,12 +96549,10 @@ procesu O
 . O
 
 V O
-  O
 létě O
 1943 B-DATE
 bylo O
 v O
-  O
 tomto O
 oddělení O
 zaregistrováno O
@@ -96862,7 +96618,6 @@ Byla O
 také O
 zřízena O
 v O
-  O
 rámci O
 osvětové O
 činnosti O
@@ -96915,7 +96670,6 @@ na O
 a O
 práci O
 v O
-  O
 budoucnosti O
 snažili O
 se O
@@ -96969,7 +96723,6 @@ rozsudek O
 smrti O
 , O
 s O
-  O
 počátku O
 bylo O
 možno O
@@ -97000,7 +96753,6 @@ V O
 Terezíně B-GHETTO
 zůstalo O
 v O
-  O
 zimě O
 1944 B-DATE
 - O
@@ -97068,7 +96820,6 @@ a O
 kolektivní O
 nevedly O
 k O
-  O
 žádnému O
 výsledku O
 . O
@@ -97141,7 +96892,6 @@ nezdálo O
 že O
 by O
 v O
-  O
 tom O
 zajetí O
 bylo O
@@ -97160,7 +96910,6 @@ na O
 život O
 práce O
 v O
-  O
 továrnách O
 atd O
 . O
@@ -97211,7 +96960,6 @@ brambor O
 a O
 hrůza O
 z O
-  O
 těch O
 poprav O
 , O
@@ -97251,7 +96999,6 @@ potřeba O
 dát O
 lidem O
 k O
-  O
 té O
 špatné O
 stravě O
@@ -97295,7 +97042,6 @@ a O
 divadelnice O
 , O
 s O
-  O
 tím O
 úkolem O
 , O
@@ -97335,7 +97081,6 @@ taky O
 nějakou O
 knihovnu B-ORG
 z O
-  O
 knih O
 , O
 které O
@@ -97574,7 +97319,6 @@ jsme O
 začali O
 rozdávat O
 z O
-  O
 našeho O
 umění O
 ubožákům O
@@ -97584,7 +97328,6 @@ na O
 chvíli O
 zapomněli O
 v O
-  O
 jaké O
 se O
 nacházejí O
@@ -97630,7 +97373,6 @@ jevišti O
 a O
 zpívat O
 s O
-  O
 doprovodem O
 orchestru O
 . O
@@ -97650,7 +97392,6 @@ trochu O
 něčeho O
 jiného O
 z O
-  O
 lepšího O
 světa O
 . O
@@ -97704,7 +97445,6 @@ stát O
 za O
 řízení O
 v O
-  O
 koncentračním O
 táboře O
 zemřelého O
@@ -97714,7 +97454,6 @@ Schächtra I-PERS
 se O
 kráčelo O
 k O
-  O
 nastudování O
 a O
 provedení O
@@ -97743,7 +97482,6 @@ bydlel O
 , O
 pouze O
 s O
-  O
 pomocí O
 jedné O
 ladičky O
@@ -97769,7 +97507,6 @@ mohly O
 studovat O
 sbory O
 z O
-  O
 Prodané O
 nevěsty O
 a O
@@ -97778,7 +97515,6 @@ jsem O
 mu O
 sehnala O
 z O
-  O
 našich O
 kasáren O
 děvčata O
@@ -97867,7 +97603,6 @@ Konečně O
 jsme O
 byli O
 s O
-  O
 tím O
 hotovi O
 a O
@@ -97875,7 +97610,6 @@ nyní O
 se O
 musel O
 v O
-  O
 noci O
 stěhovat O
 klavír O
@@ -97892,13 +97626,11 @@ mimo O
 . O
 
 V O
-  O
 jednom O
 chlapeckém O
 domově O
 dali O
 k O
-  O
 disposici O
 tělocvičnu O
 a O
@@ -98058,7 +97790,6 @@ byl O
 v O
 Terezíně B-LOC
 v O
-  O
 roku O
 1943 B-DATE
 : O
@@ -98083,7 +97814,6 @@ podniků O
 , O
 jako O
 v O
-  O
 našem O
 ghettě B-LOC
 . O
@@ -98130,17 +97860,14 @@ byla O
 bídná O
 , O
 v O
-  O
 létě O
 to O
 vedrem O
 nebylo O
 k O
-  O
 vydržení O
 a O
 v O
-  O
 zimě O
 zase O
 zimou O
@@ -98227,7 +97954,6 @@ komisi B-ORG
 tak O
 dali O
 k O
-  O
 disposici O
 dokonce O
 Sokolovnu B-LOC
@@ -98239,16 +97965,13 @@ byly O
 opery O
 uváděny O
 v O
-  O
 bezvadné O
 úpravě O
 , O
 v O
-  O
 kostýmech O
 a O
 s O
-  O
 parukama O
 , O
 prostě O
@@ -98282,7 +98005,6 @@ hrálo O
 skutečné O
 divadlo O
 s O
-  O
 překrásnou O
 divadelní O
 jevištní O
@@ -98352,7 +98074,6 @@ virtuos O
 
 A O
 v O
-  O
 kavárně O
 hrálo O
 Trio O
@@ -98366,7 +98087,6 @@ Hofer I-PERS
 / O
 a O
 v O
-  O
 létě O
 se O
 konala O
@@ -98384,13 +98104,11 @@ se O
 zdál O
 Terezín B-LOC
 v O
-  O
 létě O
 1944 B-DATE
 úplným O
 Eldorádem O
 v O
-  O
 Evropě O
 , O
 kde O
@@ -98443,7 +98161,6 @@ Strýčku O
 pojď O
 si O
 s O
-  O
 námi O
 hrát O
 , O
@@ -98475,7 +98192,6 @@ připraveni O
 herci O
 a O
 v O
-  O
 okamžiku O
 , O
 když O
@@ -98539,7 +98255,6 @@ To O
 vše O
 vlastně O
 z O
-  O
 rozkazu O
 SS O
 . O
@@ -98563,7 +98278,6 @@ Broučci O
 , O
 sestavená O
 z O
-  O
 českých O
 národních O
 písní O
@@ -98617,7 +98331,6 @@ odjela O
 začalo O
 se O
 s O
-  O
 vyklizováním O
 ghetta B-LOC
 v O
@@ -98695,7 +98408,6 @@ v O
 Terezíně B-LOC
 zůstalo O
 z O
-  O
 celého O
 souboru O
 7 O
@@ -98858,7 +98570,6 @@ program O
 , O
 ta O
 k O
-  O
 jsme O
 se O
 musely O
@@ -98933,7 +98644,6 @@ se O
 ve O
 dne O
 v O
-  O
 noci O
 psaly O
 noty O
@@ -98966,7 +98676,6 @@ překrásně O
 vybaveném O
 jevišti O
 v O
-  O
 kostýmech O
 . O
 
@@ -99116,7 +98825,6 @@ nejhůř O
 placený O
 engagement O
 v O
-  O
 celé O
 mé O
 hudební O
@@ -99315,14 +99023,12 @@ Překrásná O
 daleká O
 vřesoviště O
 v O
-  O
 plném O
 květu O
 temně O
 fialová O
 , O
 v O
-  O
 nich O
 štíhlé O
 krásné O
@@ -99336,7 +99042,6 @@ to O
 usměvavé O
 slunce O
 v O
-  O
 plné O
 své O
 kráse O
@@ -99430,7 +99135,6 @@ něco O
 a O
 někdo O
 v O
-  O
 nebi O
 , O
 kdo O
@@ -99446,7 +99150,6 @@ a O
 mýti O
 se O
 v O
-  O
 přírodě O
 a O
 vody O
@@ -99537,11 +99240,9 @@ a O
 více O
 a O
 v O
-  O
 jejich O
 boji O
 s O
-  O
 dřevěnými O
 pilíři O
 zaniká O
@@ -99636,7 +99337,6 @@ ve O
 které O
 leckteré O
 z O
-  O
 nás O
 vlasy O
 prokvetly O
@@ -99844,7 +99544,6 @@ jméno O
 
 Leden B-DATE
 v O
-  O
 tomto O
 táboře O
 byl O
@@ -99889,7 +99588,6 @@ z O
 práce O
 nemocné O
 v O
-  O
 takovém O
 stavu O
 , O
@@ -99900,7 +99598,6 @@ kosti O
 sem O
 dovlekly O
 k O
-  O
 uložení O
 . O
 
@@ -99926,7 +99623,6 @@ nyní O
 nemohla O
 ani O
 z O
-  O
 postele O
 – O
 byla O
@@ -99937,7 +99633,6 @@ Vší O
 přibývalo O
 a O
 s O
-  O
 nimi O
 i O
 tyfu O
@@ -99979,7 +99674,6 @@ naše O
 kosti O
 ještě O
 v O
-  O
 naději O
 donésti O
 do O
@@ -100038,7 +99732,6 @@ poslední O
 tuřínové O
 polévky O
 v O
-  O
 příšerném O
 transportním O
 bloku O
@@ -100049,7 +99742,6 @@ jídlo O
 znamenalo O
 výhru O
 v O
-  O
 loterii O
 , O
 přišel O
@@ -100082,7 +99774,6 @@ Hanka O
 , O
 jedna O
 z O
-  O
 našich O
 nejlepších O
 , O
@@ -100098,7 +99789,6 @@ nás O
 patří O
 již O
 k O
-  O
 ubohým O
 vysíleným O
 . O
@@ -100108,7 +99798,6 @@ se O
 vzíti O
 je O
 s O
-  O
 sebou O
 . O
 
@@ -100176,7 +99865,6 @@ dceruška O
 – O
 buď O
 s O
-  O
 Bohem O
 . O
 
@@ -100186,7 +99874,6 @@ Evo O
 která O
 jsi O
 s O
-  O
 ní O
 žila O
 a O
@@ -100216,7 +99903,6 @@ se O
 pohledem O
 loučíme O
 s O
-  O
 hroznými O
 bloky O
 , O
@@ -100715,7 +100401,6 @@ Dokumentační O
 akci O
 dala O
 k O
-  O
 disposici O
 pí O
 . O
@@ -100742,7 +100427,6 @@ začala O
 deportace O
 židů O
 z O
-  O
 bývalého O
 Protektorátu O
 do O
@@ -100795,7 +100479,6 @@ nebudou O
 další O
 transporty O
 z O
-  O
 Protektorátu O
 do O
 Polska B-LOC
@@ -100883,7 +100566,6 @@ schopného O
 židovského O
 obyvatelstva O
 z O
-  O
 Německa O
 a O
 Rakouska O
@@ -100910,13 +100592,11 @@ zvláštní O
 pracovní O
 úřad O
 v O
-  O
 rámci O
 Židovské B-ORG
 náboženské I-ORG
 obce I-ORG
 v I-ORG
-  I-ORG
 Praze I-ORG
 , O
 který O
@@ -100984,7 +100664,6 @@ malá O
 skupina O
 lidí O
 v O
-  O
 čele O
 s O
 Edelsteinem B-PERS
@@ -101024,7 +100703,6 @@ tehdy O
 mysleli O
 , O
 v O
-  O
 podobě O
 Židovského O
 města O
@@ -101073,7 +100751,6 @@ iluse O
 ! O
 
 – O
-  O
 Když O
 se O
 zavřely O
@@ -101111,7 +100788,6 @@ poměry O
 
 Když O
 v O
-  O
 prvních O
 dnech O
 se O
@@ -101174,7 +100850,6 @@ všech O
 sil O
 lidi O
 z O
-  O
 jejich O
 lethargie O
 , O
@@ -101210,11 +100885,9 @@ a O
 vypracovati O
 se O
 z O
-  O
 této O
 špíny O
 v O
-  O
 pravém O
 slova O
 smyslu O
@@ -101225,7 +100898,6 @@ sice O
 , O
 ale O
 v O
-  O
 pevné O
 víře O
 , O
@@ -101295,7 +100967,6 @@ To O
 byla O
 jedna O
 z O
-  O
 největších O
 zásluh O
 Edelsteinových B-PERS
@@ -101367,7 +101038,6 @@ Edelsteinovi B-PERS
 může O
 jíti O
 s O
-  O
 jakoukoliv O
 starostí O
 nebo O
@@ -101375,7 +101045,6 @@ stížností O
 ve O
 dne O
 v O
-  O
 noci O
 . O
 
@@ -101447,7 +101116,6 @@ spíš O
 svou O
 přináležitost O
 k O
-  O
 nim O
 , O
 a O
@@ -101461,7 +101129,6 @@ osazenstva O
 . O
 
 K O
-  O
 ilustraci O
 malý O
 příklad O
@@ -101489,7 +101156,6 @@ tak O
 zvané O
 Samosprávy O
 s O
-  O
 odůvodněním O
 , O
 že O
@@ -101622,7 +101288,6 @@ věc O
 první O
 transporty O
 z O
-  O
 Terezína O
 do O
 Polska B-LOC
@@ -101753,7 +101418,6 @@ to O
 nerovný O
 boj O
 s O
-  O
 obrovskou O
 přesilou O
 . O
@@ -101997,7 +101661,6 @@ museli O
 jsme O
 těžiti O
 z O
-  O
 této O
 situace O
 . O
@@ -102034,7 +101697,6 @@ před O
 takovými O
 návštěvníky O
 z O
-  O
 ciziny O
 . O
 
@@ -102115,7 +101777,6 @@ a O
 to O
 vše O
 v O
-  O
 tísnivé O
 předtuše O
 nastávajícího O
@@ -102141,7 +101802,6 @@ scházela O
 důvěra O
 obyvatele O
 k O
-  O
 svým O
 zástupcům O
 . O
@@ -102181,7 +101841,6 @@ jeti O
 zase O
 dobrovolně O
 s O
-  O
 ním O
 . O
 
@@ -102217,7 +101876,6 @@ někdo O
 jel O
 dobrovolně O
 s O
-  O
 ním O
 . O
 
@@ -102233,7 +101891,6 @@ byl O
 rozsudkem O
 odsouzen O
 k O
-  O
 pobytu O
 v O
 Osvětími B-CAMP
@@ -102267,14 +101924,12 @@ důvěry O
 
 Současně O
 s O
-  O
 ním O
 také O
 celá O
 řada O
 spolupracovníků O
 z O
-  O
 oddělení O
 , O
 která O
@@ -102323,7 +101978,6 @@ na O
 ten O
 blázinec O
 z O
-  O
 léta O
 1944 B-DATE
 . O
@@ -102379,7 +102033,6 @@ popírati O
 jsme O
 některých O
 z O
-  O
 těchto O
 nařízení O
 mohli O
@@ -102407,7 +102060,6 @@ sopce O
 
 Právě O
 v O
-  O
 těchto O
 dnech O
 jsme O
@@ -102498,7 +102150,6 @@ mužů O
 
 Protiklad O
 k O
-  O
 zářnému O
 létu O
 byl O
@@ -102520,7 +102171,6 @@ Co O
 se O
 stane O
 s O
-  O
 našimi O
 muži O
 , O
@@ -102663,7 +102313,6 @@ dubnu B-DATE
 se O
 rozšiřuje O
 v O
-  O
 noci O
 náhle O
 pověst O
@@ -102732,7 +102381,6 @@ umírajících O
 zbídačených O
 vězňů O
 z O
-  O
 různých O
 koncentračních O
 táborů O
@@ -102757,7 +102405,6 @@ těmi O
 hroznými O
 postavami O
 s O
-  O
 nadějí O
 a O
 se O
@@ -102800,7 +102447,6 @@ zmocňuje O
 tábora B-GHETTO
 , O
 v O
-  O
 němž O
 je O
 tisíce O
@@ -102826,7 +102472,6 @@ to O
 přežil O
 , O
 s O
-  O
 vypětím O
 poslední O
 síly O
@@ -102865,12 +102510,10 @@ pozdě O
 
 Jen O
 v O
-  O
 románech O
 přichází O
 osvobození O
 v O
-  O
 pravý O
 okamžik O
 . O
@@ -103168,7 +102811,6 @@ lékař O
 
 ( O
 V O
-  O
 každém O
 táboře O
 byl O
@@ -103288,7 +102930,6 @@ který O
 dopomohl O
 jednomu O
 z O
-  O
 našich O
 lidí O
 k O
@@ -103322,7 +102963,6 @@ jediné O
 co O
 jsme O
 v O
-  O
 životě O
 ještě O
 měli O
@@ -103388,7 +103028,6 @@ Tyto O
 lístky O
 šly O
 s O
-  O
 datem O
 25 B-DATE
 . O
@@ -103415,7 +103054,6 @@ ráno O
 , O
 po O
 obvyklém O
-  O
 : O
 
 Blockälteste O
@@ -103430,7 +103068,6 @@ musí O
 ihned O
 nastoupit O
 v O
-  O
 dolejší O
 části O
 tábora O
@@ -103546,7 +103183,6 @@ nejistoty O
 . I-DATE
 března I-DATE
 v O
-  O
 poledne O
 volání O
 : O
@@ -103687,7 +103323,6 @@ zjistili O
 , O
 že O
 v O
-  O
 noci O
 odjela O
 auta O
@@ -103702,7 +103337,6 @@ prázdný O
 a O
 jen O
 z O
-  O
 komína O
 krematoria O
 šlehaly O
@@ -103743,7 +103377,6 @@ Sonderkommanda O
 , O
 který O
 k O
-  O
 této O
 práci O
 byl O
@@ -103929,7 +103562,6 @@ tehdy O
 osob O
 a O
 z O
-  O
 toho O
 jelo O
 na O
@@ -103957,7 +103589,6 @@ f I-CAMP
 . O
 
 V O
-  O
 novém O
 táboře B-LOC
 nám O
@@ -103979,13 +103610,11 @@ zážitek O
 nám O
 utkvěl O
 v O
-  O
 paměti O
 : O
 
 Jeden O
 z O
-  O
 našich O
 mučitelů O
 , O
@@ -104050,7 +103679,6 @@ nálada O
 . O
 
 V O
-  O
 té O
 době O
 jsem O
@@ -104106,7 +103734,6 @@ tábora B-LOC
 ale O
 stále O
 k O
-  O
 tomu O
 nedocházelo O
 . O
@@ -104276,7 +103903,6 @@ nedostali O
 se O
 již O
 k O
-  O
 tomu O
 . O
 
@@ -104312,7 +103938,6 @@ Svobodova O
 armáda O
 , O
 s O
-  O
 kterou O
 jsme O
 přijeli O
@@ -104322,7 +103947,6 @@ Prahy B-LOC
 . O
 
 Z O
-  O
 celé O
 rodiny O
 18ti O
@@ -104341,7 +103965,6 @@ přijal O
 Berta B-PERS
 Gerzonová I-PERS
 Podpis O
-  O
 : O
 
 Jiří B-PERS
@@ -104363,7 +103986,6 @@ Scheck B-PERS
 Za O
 archiv O
 přijal O
-  O
 : O
 
 Alex B-PERS
@@ -104419,7 +104041,6 @@ IX I-DATE
 1942 I-DATE
 odjezd O
 z O
-  O
 Terezína O
 , O
 směr O
@@ -104467,7 +104088,6 @@ SS O
 a O
 SD B-ORG
 s O
-  O
 modrými O
 , O
 krásnými O
@@ -104608,7 +104228,6 @@ a O
 vybalujeme O
 věci O
 z O
-  O
 našeho O
 transportu O
 . O
@@ -104628,7 +104247,6 @@ práce O
 odkud O
 se O
 k O
-  O
 nám O
 vracejí O
 jen O
@@ -104823,7 +104441,6 @@ V O
 Tallinu B-LOC
 bydlíme O
 v O
-  O
 centrálním O
 vězení O
 , O
@@ -104831,7 +104448,6 @@ kde O
 se O
 setkáváme O
 s O
-  O
 prvním O
 transportem O
 , O
@@ -104841,7 +104457,6 @@ na O
 odklízecích O
 pracích O
 v O
-  O
 přístavu O
 pod O
 dohledem O
@@ -104851,7 +104466,6 @@ též O
 vídáme O
 muže O
 z O
-  O
 našeho O
 transportu O
 , O
@@ -104946,7 +104560,6 @@ věcí O
 . O
 
 V O
-  O
 okolí O
 je O
 ještě O
@@ -104995,7 +104608,6 @@ odvážné O
 Pracuje O
 se O
 v O
-  O
 lese O
 a O
 na O
@@ -105061,7 +104673,6 @@ a O
 proto O
 vystupujeme O
 v O
-  O
 předměstí O
 Tallinu B-LOC
 na O
@@ -105209,7 +104820,6 @@ Dokumentační O
 akci O
 dal O
 k O
-  O
 disposici O
 p. O
 Ota B-PERS
@@ -105238,11 +104848,9 @@ těm O
 , O
 kteří O
 v O
-  O
 JPT O
 cvičili O
 s O
-  O
 hrdinou O
 těchto O
 řádků O
@@ -105262,7 +104870,6 @@ hrdiny O
 , O
 bohatýra O
 v O
-  O
 žití O
 i O
 umírání O
@@ -105315,7 +104922,6 @@ přímost O
 , O
 zdatnost O
 v O
-  O
 práci O
 a O
 neposledně O
@@ -105345,7 +104951,6 @@ zanechal O
 svou O
 matku O
 v O
-  O
 nejistém O
 osudu O
 se O
@@ -105354,14 +104959,12 @@ zbytkem O
 vězni O
 , O
 z O
-  O
 nichž O
 10.500 O
 končí O
 hromadnou O
 popravou O
 v O
-  O
 plynových O
 komorách O
 . O
@@ -105374,7 +104977,6 @@ u O
 Oranienburgu B-CAMP
 pracuje O
 s O
-  O
 pevnou O
 vírou O
 ve O
@@ -105443,7 +105045,6 @@ mnoho O
 poschoďových O
 krytů O
 s O
-  O
 3metrovými O
 železobetonovými O
 stropy O
@@ -105453,12 +105054,10 @@ jsme O
 prožívat O
 bombardování O
 v O
-  O
 bezprostřední O
 blízkosti O
 továrny O
 v O
-  O
 dřevěných O
 barácích O
 , O
@@ -105498,7 +105097,6 @@ které O
 jsou O
 určeny O
 k O
-  O
 úplnému O
 vyčerpání O
 . O
@@ -105532,7 +105130,6 @@ německé O
 bestiality O
 jsou O
 z O
-  O
 našich O
 řad O
 . O
@@ -105544,7 +105141,6 @@ odchází O
 soudruh O
 Honza B-PERS
 z O
-  O
 místnosti O
 , O
 kde O
@@ -105618,7 +105214,6 @@ třísla O
 . O
 
 V O
-  O
 okolí O
 samá O
 těžká O
@@ -105754,7 +105349,6 @@ dny O
 , O
 aby O
 v O
-  O
 nás O
 zanechal O
 nekonečnou O
@@ -105848,7 +105442,6 @@ pilou O
 na O
 dříví O
 z O
-  O
 truhlářské O
 dílny O
 tábora O
@@ -105922,7 +105515,6 @@ Schmiedt I-PERS
 Protokol O
 Sepsaný O
 s O
-  O
 panem O
 Erichem O
 Schönem O
@@ -106016,7 +105608,6 @@ t.zv O
 rodinného O
 tábora O
 v O
-  O
 Birkenau O
 , O
 úsek O
@@ -106150,7 +105741,6 @@ byla O
 jeho O
 rodina O
 v O
-  O
 táboře O
 B O
 - O
@@ -106335,7 +105925,6 @@ jeho O
 odjezdu O
 došlo O
 k O
-  O
 prvé O
 likvidaci O
 českého O
@@ -106407,7 +105996,6 @@ na O
 . O
 
 K O
-  O
 této O
 druhé O
 likvidaci O
@@ -106458,7 +106046,6 @@ I I-LOC
 Doprovázející O
 SS O
 z O
-  O
 Politische O
 Abteilung O
 žádal O
@@ -106484,7 +106071,6 @@ tábora O
 a O
 vzali O
 s O
-  O
 sebou O
 i O
 jejich O
@@ -106557,7 +106143,6 @@ odmítl O
 ji O
 vydat O
 s O
-  O
 odůvodněním O
 , O
 že O
@@ -106578,7 +106163,6 @@ se O
 auto O
 vrátilo O
 s O
-  O
 přísným O
 rozkazem O
 velitele O
@@ -106588,14 +106172,12 @@ Schwarzhubera B-PERS
 že O
 Edelsteinová B-PERS
 s O
-  O
 rodinou O
 má O
 býti O
 ihned O
 vydána O
 v O
-  O
 takovém O
 stavu O
 , O
@@ -106616,7 +106198,6 @@ byli O
 potom O
 všichni O
 v O
-  O
 popravčí O
 síni O
 zastřeleni O
@@ -106867,7 +106448,6 @@ Frankfurtu B-LOC
 Pracovali O
 jsme O
 v O
-  O
 desinfekčním O
 ústavě O
 Sauna O
@@ -107005,7 +106585,6 @@ napravo O
 . O
 
 V O
-  O
 letech O
 42 B-DATE
 a O
@@ -107075,7 +106654,6 @@ polských O
 . O
 
 V O
-  O
 roce O
 1944 B-DATE
 byla O
@@ -107094,7 +106672,6 @@ nicméně O
 šly O
 i O
 v O
-  O
 této O
 době O
 celé O
@@ -107138,7 +106715,6 @@ v O
 1943 I-DATE
 přijel O
 z O
-  O
 Terezína O
 transport O
 asi O
@@ -107147,7 +106723,6 @@ až O
 1200 O
 dětí O
 z O
-  O
 Bialystoku O
 s O
 opatrovnickým O
@@ -107219,7 +106794,6 @@ Varšavy B-LOC
 . O
 
 V O
-  O
 sauně O
 Rapportführer O
 Schillinger B-PERS
@@ -107283,12 +106857,10 @@ SS O
 byly O
 ženy O
 z O
-  O
 části O
 zastřeleny O
 , O
 z O
-  O
 části O
 zaplynovány O
 , O
@@ -107330,10 +106902,8 @@ ev O
 . O
 vzít O
 s O
-  O
 sebou O
 z O
-  O
 nádraží O
 . O
 
@@ -107384,7 +106954,6 @@ neuveden O
 byla O
 prováděna O
 v O
-  O
 sauně O
 II O
 selekce O
@@ -107415,7 +106984,6 @@ selekce O
 byla O
 prováděna O
 z O
-  O
 rozkazu O
 SS O
 - O
@@ -107447,7 +107015,6 @@ byly O
 vedeny O
 přímo O
 z O
-  O
 rampy O
 do O
 jednoho O
@@ -107468,7 +107035,6 @@ se O
 slaměnou O
 střechou O
 s O
-  O
 4 O
 malými O
 pokoji O
@@ -107576,7 +107142,6 @@ po O
 čtyřhranných O
 sloupech O
 z O
-  O
 drátěné O
 spleti O
 , O
@@ -107596,10 +107161,8 @@ lepenky O
 které O
 vylučovaly O
 v O
-  O
 doteku O
 s O
-  O
 vlhkostí O
 vzduchu O
 plyn O
@@ -107626,7 +107189,6 @@ SS O
 kteří O
 měli O
 k O
-  O
 tomu O
 plynovou O
 masku O
@@ -107730,7 +107292,6 @@ kterého O
 zastřelil O
 Moll B-PERS
 v O
-  O
 roce O
 1944 B-DATE
 . O
@@ -107824,7 +107385,6 @@ jednomu O
 účastníkovi O
 vyhodit O
 z O
-  O
 okna O
 krabici O
 s O
@@ -107935,7 +107495,6 @@ Pak O
 si O
 čistil O
 s O
-  O
 jejich O
 krví O
 holínky O
@@ -107964,7 +107523,6 @@ armádě O
 který O
 pracoval O
 v O
-  O
 t.zv O
 . O
 
@@ -108076,7 +107634,6 @@ hnojení O
 , O
 nebo O
 k O
-  O
 těsnění O
 bramborových O
 bunkrů O
@@ -108085,7 +107642,6 @@ vlhkosti O
 , O
 nebo O
 k O
-  O
 posypávání O
 cest O
 v O
@@ -108163,7 +107719,6 @@ Bunker O
 5 O
 byl O
 v O
-  O
 činnosti O
 až O
 do O
@@ -108182,7 +107737,6 @@ přijely O
 maďarské B-LOC
 transporty O
 s O
-  O
 850.000 O
 Židy O
 , O
@@ -108194,7 +107748,6 @@ a O
 2 O
 transporty O
 z O
-  O
 Terezína O
 . O
 
@@ -108206,7 +107759,6 @@ bylo O
 baráků O
 , O
 z O
-  O
 nichž O
 12 O
 dřevěných O
@@ -108221,7 +107773,6 @@ kamenných O
 . O
 
 V O
-  O
 každém O
 dřevěném O
 baráku O
@@ -108231,7 +107782,6 @@ až O
 vězňů O
 , O
 v O
-  O
 každém O
 kamenném O
 až O
@@ -108242,7 +107792,6 @@ vězňů O
 To O
 bylo O
 v O
-  O
 starém O
 mužském O
 táboře O
@@ -108276,7 +107825,6 @@ II I-CAMP
 d O
 /. O
 V O
-  O
 bloku O
 15 O
 byl O
@@ -108307,7 +107855,6 @@ až O
 . O
 
 V O
-  O
 bloku O
 21 O
 byl O
@@ -108347,7 +107894,6 @@ mnoho O
 . O
 
 V O
-  O
 bloku O
 27 O
 podobně O
@@ -108358,7 +107904,6 @@ Schaffmann B-PERS
 . O
 
 V O
-  O
 bloku O
 příchozích O
 22 O
@@ -108485,7 +108030,6 @@ vrchní O
 kápo O
 Rudi O
 z O
-  O
 komanda O
 More O
 / O
@@ -108618,7 +108162,6 @@ měsíce O
 
 Sestával O
 z O
-  O
 16 O
 dřevěných O
 baráků O
@@ -108706,7 +108249,6 @@ následující O
 . O
 
 V O
-  O
 tomto O
 táboře O
 byli O
@@ -108765,7 +108307,6 @@ přeměněn O
 v O
 F O
 K O
-  O
 L O
 . O
 
@@ -108858,7 +108399,6 @@ lednu B-DATE
 a O
 byl O
 v O
-  O
 provozu O
 až O
 do O
@@ -108885,7 +108425,6 @@ Byli O
 tam O
 cikáni O
 z O
-  O
 celé O
 Evropy O
 , O
@@ -108898,7 +108437,6 @@ pak O
 byla O
 část O
 z O
-  O
 nich O
 zařazena O
 do O
@@ -108926,7 +108464,6 @@ Tento O
 tábor B-LOC
 byl O
 v O
-  O
 provozu O
 až O
 do O
@@ -109077,7 +108614,6 @@ jen O
 ženy O
 , O
 z O
-  O
 nichž O
 a O
 začátku O
@@ -109123,7 +108659,6 @@ sebou O
 jen O
 někdy O
 v O
-  O
 noci O
 viděli O
 zář O
@@ -109186,12 +108721,10 @@ případ O
 když O
 matka O
 s O
-  O
 3 O
 malými O
 dětmi O
 v O
-  O
 noci O
 , O
 zděšena O
@@ -109230,13 +108763,11 @@ příjezdu O
 jednoho O
 transportu O
 z O
-  O
 Terezína O
 v O
 říjnu B-DATE
 1944 I-DATE
 v O
-  O
 noci O
 , O
 došlo O
@@ -109313,7 +108844,6 @@ krematoria O
 nebyla O
 ještě O
 v O
-  O
 provozu O
 , O
 bunker O
@@ -109485,7 +109015,6 @@ vedeno O
 do O
 plynu O
 v O
-  O
 době O
 , O
 když O
@@ -109569,10 +109098,8 @@ zaplynování O
 zářijového B-DATE
 transportu O
 z O
-  O
 Terezína O
 v O
-  O
 počtu O
 5.000 O
 osob O
@@ -109604,11 +109131,9 @@ března I-DATE
 Purim O
 / O
 v O
-  O
 11 O
 h O
 v O
-  O
 noci O
 dostali O
 občerstvující O
@@ -109620,7 +109145,6 @@ aby O
 napsali O
 lístky O
 s O
-  O
 datem O
 27 B-DATE
 . I-DATE
@@ -109662,7 +109186,6 @@ příjezdu O
 prosincového B-DATE
 transportu O
 z O
-  O
 Terezína O
 se O
 přihodilo O
@@ -109708,7 +109231,6 @@ byl O
 též O
 jedním O
 z O
-  O
 největších O
 katů O
 v O
@@ -109736,7 +109258,6 @@ b O
 . O
 
 Z O
-  O
 toho O
 transportu O
 bylo O
@@ -109809,7 +109330,6 @@ přijíždělo O
 transportů O
 , O
 z O
-  O
 nichž O
 každý O
 čítal O
@@ -109825,7 +109345,6 @@ rampě O
 . O
 
 K O
-  O
 likvidaci O
 maďarských B-LOC
 transportů O
@@ -109845,7 +109364,6 @@ Maďarska B-LOC
 Židů O
 , O
 z O
-  O
 nichž O
 přišlo O
 do O
@@ -109853,7 +109371,6 @@ tábora B-CAMP
 115.000 O
 , O
 z O
-  O
 větší O
 části O
 ženy O
@@ -109871,7 +109388,6 @@ transportů O
 z O
 Lodže B-LOC
 v O
-  O
 celkovém O
 počtu O
 asi O
@@ -109882,7 +109398,6 @@ osob O
 Do O
 tábora B-CAMP
 z O
-  O
 nich O
 přišlo O
 asi O
@@ -110003,7 +109518,6 @@ květnu B-DATE
 1944 I-DATE
 transport O
 z O
-  O
 Terezína O
 , O
 který O
@@ -110032,7 +109546,6 @@ přijela O
 řada O
 transportů O
 z O
-  O
 Terezína O
 , O
 celkem O
@@ -110076,7 +109589,6 @@ se O
 , O
 že O
 z O
-  O
 jednotlivých O
 transportů O
 nepřišlo O
@@ -110134,7 +109646,6 @@ daly O
 své O
 děti O
 k O
-  O
 starším O
 ženám O
 . O
@@ -110174,7 +109685,6 @@ dítě O
 . O
 
 V O
-  O
 některých O
 případech O
 děti O
@@ -110228,7 +109738,6 @@ se O
 používalo O
 pistole O
 s O
-  O
 hřebíkem O
 a O
 pak O
@@ -110258,14 +109767,12 @@ a O
 jistý O
 Unterschaarführer O
 s O
-  O
 přezdívkou O
 Mojše O
 Borek O
 . O
 
 K O
-  O
 těmto O
 popravám O
 byly O
@@ -110311,7 +109818,6 @@ krev O
 Po O
 transportech O
 z O
-  O
 Terezína O
 přijely O
 transporty O
@@ -110355,7 +109861,6 @@ tábor B-CAMP
 a O
 zasazen O
 k O
-  O
 této O
 práci O
 , O
@@ -110623,10 +110128,8 @@ v O
 květnu B-DATE
 1943 I-DATE
 v O
-  O
 sauně O
 ve O
-  O
 starém O
 mužském O
 táboře O
@@ -110660,7 +110163,6 @@ pomoc O
 měla O
 pozůstávati O
 v O
-  O
 tom O
 , O
 že O
@@ -110701,7 +110203,6 @@ tím O
 , O
 že O
 v O
-  O
 této O
 době O
 možnost O
@@ -110814,7 +110315,6 @@ opatřily O
 , O
 pracující O
 v O
-  O
 komandu O
 Union O
 , O
@@ -110825,13 +110325,11 @@ muniční O
 továrna O
 / O
 v O
-  O
 malých O
 dávkách O
 . O
 
 Z O
-  O
 dynamitu O
 se O
 vyráběly O
@@ -110845,7 +110343,6 @@ konstrukce O
 . O
 
 S O
-  O
 pomocí O
 uvězněných O
 Rusů O
@@ -110900,7 +110397,6 @@ byl O
 dosažen O
 styk O
 s O
-  O
 vnějším O
 světem O
 , O
@@ -110911,7 +110407,6 @@ poslán O
 k O
 partyzánům O
 v O
-  O
 okolí O
 . O
 
@@ -110945,7 +110440,6 @@ buňky O
 Hnutí O
 bylo O
 v O
-  O
 této O
 době O
 již O
@@ -110956,7 +110450,6 @@ silné O
 Ku O
 příkladu O
 v O
-  O
 Effektenlágru O
 bylo O
 v O
@@ -110981,7 +110474,6 @@ Rusy O
 a O
 společně O
 s O
-  O
 nimi O
 byly O
 konány O
@@ -111117,7 +110609,6 @@ Celkem O
 bylo O
 zabito O
 v O
-  O
 tento O
 den O
 455 O
@@ -111156,7 +110647,6 @@ likvidace O
 tábora B-CAMP
 , O
 v O
-  O
 němž O
 bylo O
 t.č O
@@ -111291,7 +110781,6 @@ Praze B-LOC
 . O
 
 V O
-  O
 tomto O
 měsíci O
 začaly O
@@ -111405,7 +110894,6 @@ zavazadla O
 . O
 
 V O
-  O
 6 O
 hodin O
 ráno O
@@ -111526,7 +111014,6 @@ poměrů O
 zůstalo O
 nás O
 v O
-  O
 téže O
 místnosti O
 ještě O
@@ -111589,7 +111076,6 @@ poměry O
 jakož O
 i O
 s O
-  O
 tím O
 spojená O
 veliká O
@@ -111676,10 +111162,8 @@ jsme O
 nuceni O
 jíti O
 v O
-  O
 noci O
 v O
-  O
 zimě O
 na O
 těžké O
@@ -111763,7 +111247,6 @@ přidělena O
 lehčí O
 práce O
 v O
-  O
 továrně O
 na O
 výrobu O
@@ -111820,7 +111303,6 @@ stav O
 byl O
 již O
 v O
-  O
 této O
 době O
 natolik O
@@ -111845,7 +111327,6 @@ tehdy O
 byl O
 připoután O
 k O
-  O
 lůžku O
 pro O
 těžkou O
@@ -111985,7 +111466,6 @@ Protože O
 jsme O
 věřili O
 v O
-  O
 brzký O
 příchod O
 Rudé O
@@ -112066,7 +111546,6 @@ veliké O
 komíny O
 , O
 z O
-  O
 nichž O
 šlehaly O
 vysoké O
@@ -112090,7 +111569,6 @@ ptal O
 co O
 se O
 v O
-  O
 těchto O
 továrnách O
 vyrábí O
@@ -112213,10 +111691,8 @@ jsme O
 se O
 vydali O
 v O
-  O
 dřevákách O
 s O
-  O
 dvěma O
 dekami O
 a O
@@ -112245,7 +111721,6 @@ vůle O
 a O
 naděje O
 v O
-  O
 brzké O
 vysvobození O
 . O
@@ -112371,7 +111846,6 @@ poté O
 nás O
 vyháněli O
 v O
-  O
 nahém O
 a O
 mokrém O
@@ -112440,7 +111914,6 @@ všeho O
 Pracovali O
 jsme O
 v O
-  O
 letecké O
 továrně O
 Messerschmitt O
@@ -112512,7 +111985,6 @@ to O
 , O
 že O
 v O
-  O
 každém O
 bloku O
 o O
@@ -112526,7 +111998,6 @@ vězňů O
 . O
 
 V O
-  O
 době O
 nejhorší O
 , O
@@ -112560,7 +112031,6 @@ Našel O
 jsem O
 úkryt O
 v O
-  O
 českém O
 civilním O
 pracovním O
@@ -112588,7 +112058,6 @@ Prahy B-LOC
 . O
 
 Z O
-  O
 mého O
 vzdálenějšího O
 příbuzenstva O
@@ -112601,7 +112070,6 @@ Jsem O
 jediný O
 žijící O
 v O
-  O
 naší O
 rodině O
 , O
@@ -112609,7 +112077,6 @@ jejíž O
 členové O
 zůstali O
 v O
-  O
 Evropě O
 . O
 
@@ -112711,7 +112178,6 @@ rodinou O
 manželka O
 a O
 syn O
-  O
 :/ O
 v O
 táboře O
@@ -112735,7 +112201,6 @@ Byli O
 jsme O
 ubytování O
 v O
-  O
 dřevěných O
 barácích O
 , O
@@ -112946,7 +112411,6 @@ velitel O
 SS O
 odtransportovat O
 s O
-  O
 upozorněním O
 , O
 že O
@@ -112966,7 +112430,6 @@ nestane O
 
 Cestou O
 z O
-  O
 hor O
 dolů O
 přibyli O
@@ -113032,7 +112495,6 @@ všichni O
 
 42 O
 osob O
-  O
 :/ O
 zůstali O
 v O
@@ -113107,7 +112569,6 @@ ve O
 13 O
 hodin O
 v O
-  O
 sedle O
 mezi O
 Kozím B-LOC
