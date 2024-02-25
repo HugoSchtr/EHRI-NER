@@ -1,0 +1,391 @@
+==========================================
+SLURM_JOB_ID = 2138160
+SLURM_JOB_NODELIST = gpu006
+==========================================
+### Running EHRI_NER_multi_large_without_ter ###
+ 
+ ,-,
+/.(
+\ {
+ `-`
+ 
+Sun Feb 25 18:50:31 2024       
++---------------------------------------------------------------------------------------+
+| NVIDIA-SMI 545.29.02              Driver Version: 545.29.02    CUDA Version: 12.3     |
+|-----------------------------------------+----------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |         Memory-Usage | GPU-Util  Compute M. |
+|                                         |                      |               MIG M. |
+|=========================================+======================+======================|
+|   0  Quadro RTX 8000                On  | 00000000:E2:00.0 Off |                    0 |
+| N/A   27C    P8              14W / 250W |      0MiB / 46080MiB |      0%      Default |
+|                                         |                      |                  N/A |
++-----------------------------------------+----------------------+----------------------+
+                                                                                         
++---------------------------------------------------------------------------------------+
+| Processes:                                                                            |
+|  GPU   GI   CI        PID   Type   Process name                            GPU Memory |
+|        ID   ID                                                             Usage      |
+|=======================================================================================|
+|  No running processes found                                                           |
++---------------------------------------------------------------------------------------+
+ 
+ ,-,
+/.(
+\ {
+ `-`
+ 
+LMOD_FAMILY_COMPILER_VERSION=8.3.0
+SLURM_NODELIST=gpu006
+LC_PAPER=fr_FR.UTF-8
+CUDA_PATH=/opt/ohpc/pub/utils/cuda/10.2.89
+SLURM_JOB_NAME=EHRI_NER_multi_large_without_ter
+MANPATH=/opt/ohpc/pub/compiler/gcc/8.3.0/share/man:/opt/ohpc/pub/utils/cuda/10.2.89/doc/man::/opt/puppetlabs/puppet/share/man
+XDG_SESSION_ID=103986
+LC_ADDRESS=fr_FR.UTF-8
+SLURMD_NODENAME=gpu006
+SLURM_TOPOLOGY_ADDR=gpu006
+HOSTNAME=gpu006
+LC_MONETARY=fr_FR.UTF-8
+TERM_PROGRAM=vscode
+SLURM_PRIO_PROCESS=0
+SLURM_NODE_ALIASES=(null)
+__LMOD_REF_COUNT_MODULEPATH=/opt/ohpc/pub/moduledeps/gnu8:1;/opt/ohpc/pub/modulefiles:1
+SHELL=/bin/bash
+TERM=xterm-256color
+SLURM_JOB_QOS=normal
+SLURM_HINT=multithread
+LMOD_ROOT=/opt/ohpc/admin/lmod
+PROJECT=/scratch/_projets_/almanach
+HISTSIZE=1000
+TMPDIR=/tmp
+SLURM_TOPOLOGY_ADDR_PATTERN=node
+SSH_CLIENT=128.93.176.17 35392 22
+CONDA_SHLVL=1
+CONDA_PROMPT_MODIFIER=(base) 
+TERM_PROGRAM_VERSION=1.81.1
+LMOD_PKG=/opt/ohpc/admin/lmod/lmod
+PUBLIC=/scratch/_public_
+LC_NUMERIC=fr_FR.UTF-8
+SLURM_JOB_GPUS=2
+LMOD_VERSION=8.1.18
+__LMOD_REF_COUNT_LOADEDMODULES=cuda/10.2.89:1;gnu8/8.3.0:1
+SLURM_MEM_PER_CPU=1984
+CUDA_HOME=/opt/ohpc/pub/utils/cuda/10.2.89
+ROCR_VISIBLE_DEVICES=0
+SLURM_NNODES=1
+USER=hscheith
+LD_LIBRARY_PATH=/opt/ohpc/pub/compiler/gcc/8.3.0/lib64:/opt/ohpc/pub/utils/cuda/10.2.89/nvvm/lib64:/opt/ohpc/pub/utils/cuda/10.2.89/extras/CUPTI/lib64:/opt/ohpc/pub/utils/cuda/10.2.89/lib64/stubs:/opt/ohpc/pub/utils/cuda/10.2.89/lib64:/opt/ohpc/pub/utils/cuda/10.2.89/samples/common/lib/linux/x86_64:/opt/ohpc/pub/utils/cuda/10.2.89/targets/x86_64-linux/lib
+LC_TELEPHONE=fr_FR.UTF-8
+LS_COLORS=rs=0:di=38;5;27:ln=38;5;51:mh=44;38;5;15:pi=40;38;5;11:so=38;5;13:do=38;5;5:bd=48;5;232;38;5;11:cd=48;5;232;38;5;3:or=48;5;232;38;5;9:mi=05;48;5;232;38;5;15:su=48;5;196;38;5;15:sg=48;5;11;38;5;16:ca=48;5;196;38;5;226:tw=48;5;10;38;5;16:ow=48;5;10;38;5;21:st=48;5;21;38;5;15:ex=38;5;34:*.tar=38;5;9:*.tgz=38;5;9:*.arc=38;5;9:*.arj=38;5;9:*.taz=38;5;9:*.lha=38;5;9:*.lz4=38;5;9:*.lzh=38;5;9:*.lzma=38;5;9:*.tlz=38;5;9:*.txz=38;5;9:*.tzo=38;5;9:*.t7z=38;5;9:*.zip=38;5;9:*.z=38;5;9:*.Z=38;5;9:*.dz=38;5;9:*.gz=38;5;9:*.lrz=38;5;9:*.lz=38;5;9:*.lzo=38;5;9:*.xz=38;5;9:*.bz2=38;5;9:*.bz=38;5;9:*.tbz=38;5;9:*.tbz2=38;5;9:*.tz=38;5;9:*.deb=38;5;9:*.rpm=38;5;9:*.jar=38;5;9:*.war=38;5;9:*.ear=38;5;9:*.sar=38;5;9:*.rar=38;5;9:*.alz=38;5;9:*.ace=38;5;9:*.zoo=38;5;9:*.cpio=38;5;9:*.7z=38;5;9:*.rz=38;5;9:*.cab=38;5;9:*.jpg=38;5;13:*.jpeg=38;5;13:*.gif=38;5;13:*.bmp=38;5;13:*.pbm=38;5;13:*.pgm=38;5;13:*.ppm=38;5;13:*.tga=38;5;13:*.xbm=38;5;13:*.xpm=38;5;13:*.tif=38;5;13:*.tiff=38;5;13:*.png=38;5;13:*.svg=38;5;13:*.svgz=38;5;13:*.mng=38;5;13:*.pcx=38;5;13:*.mov=38;5;13:*.mpg=38;5;13:*.mpeg=38;5;13:*.m2v=38;5;13:*.mkv=38;5;13:*.webm=38;5;13:*.ogm=38;5;13:*.mp4=38;5;13:*.m4v=38;5;13:*.mp4v=38;5;13:*.vob=38;5;13:*.qt=38;5;13:*.nuv=38;5;13:*.wmv=38;5;13:*.asf=38;5;13:*.rm=38;5;13:*.rmvb=38;5;13:*.flc=38;5;13:*.avi=38;5;13:*.fli=38;5;13:*.flv=38;5;13:*.gl=38;5;13:*.dl=38;5;13:*.xcf=38;5;13:*.xwd=38;5;13:*.yuv=38;5;13:*.cgm=38;5;13:*.emf=38;5;13:*.axv=38;5;13:*.anx=38;5;13:*.ogv=38;5;13:*.ogx=38;5;13:*.aac=38;5;45:*.au=38;5;45:*.flac=38;5;45:*.mid=38;5;45:*.midi=38;5;45:*.mka=38;5;45:*.mp3=38;5;45:*.mpc=38;5;45:*.ogg=38;5;45:*.ra=38;5;45:*.wav=38;5;45:*.axa=38;5;45:*.oga=38;5;45:*.spx=38;5;45:*.xspf=38;5;45:
+TMP_DIR=/local/2138160
+CONDA_EXE=/home/hscheith/miniconda3/bin/conda
+SLURM_JOBID=2138160
+__LMOD_REF_COUNT__LMFILES_=/opt/ohpc/pub/modulefiles/cuda/10.2.89:1;/opt/ohpc/pub/modulefiles/gnu8/8.3.0:1
+SLURM_NTASKS=1
+VIRTUAL_ENV=/home/hscheith/dev/EHRI/dev/EHRI-NER/dev/venv
+_CE_CONDA=
+LMOD_PREPEND_BLOCK=normal
+CUDA_INSTALL_PATH=/opt/ohpc/pub/utils/cuda/10.2.89
+SLURM_TASKS_PER_NODE=1
+_ModuleTable001_=X01vZHVsZVRhYmxlXz17WyJNVHZlcnNpb24iXT0zLFsiY19yZWJ1aWxkVGltZSJdPWZhbHNlLFsiY19zaG9ydFRpbWUiXT1mYWxzZSxkZXB0aFQ9e30sZmFtaWx5PXtbImNvbXBpbGVyIl09ImdudTgiLH0sbVQ9e2N1ZGE9e1siZm4iXT0iL29wdC9vaHBjL3B1Yi9tb2R1bGVmaWxlcy9jdWRhLzEwLjIuODkiLFsiZnVsbE5hbWUiXT0iY3VkYS8xMC4yLjg5IixbImxvYWRPcmRlciJdPTEscHJvcFQ9e30sWyJzdGFja0RlcHRoIl09MCxbInN0YXR1cyJdPSJhY3RpdmUiLFsidXNlck5hbWUiXT0iY3VkYS8xMC4yLjg5Iix9LGdudTg9e1siZm4iXT0iL29wdC9vaHBjL3B1Yi9tb2R1bGVmaWxlcy9nbnU4LzguMy4wIixbImZ1bGxOYW1lIl09ImdudTgvOC4zLjAiLFsibG9hZE9yZGVy
+MAIL=/var/spool/mail/hscheith
+PATH=/home/hscheith/dev/EHRI/dev/EHRI-NER/dev/venv/bin:/opt/ohpc/pub/compiler/gcc/8.3.0/bin:/opt/ohpc/pub/utils/cuda/10.2.89/samples:/opt/ohpc/pub/utils/cuda/10.2.89/nvvm/bin:/opt/ohpc/pub/utils/cuda/10.2.89/bin:/home/hscheith/dev/EHRI/dev/EHRI-NER/dev/venv/bin:/home/hscheith/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/bin/remote-cli:/home/hscheith/miniconda3/bin:/home/hscheith/miniconda3/condabin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/puppetlabs/bin:/home/hscheith/.local/bin:/home/hscheith/bin
+SLURM_WORKING_CLUSTER=cleps:cleps-sifu:6817:9216:109
+SLURM_CONF=/etc/slurm/slurm.conf
+SLURM_JOB_ID=2138160
+SLURM_CPUS_PER_TASK=16
+C_INCLUDE_PATH=/opt/ohpc/pub/utils/cuda/10.2.89/include
+CONDA_PREFIX=/home/hscheith/miniconda3
+LMOD_SETTARG_CMD=:
+LC_IDENTIFICATION=fr_FR.UTF-8
+SLURM_JOB_USER=hscheith
+PWD=/home/hscheith/dev/EHRI/dev/EHRI-NER/dev
+_LMFILES_=/opt/ohpc/pub/modulefiles/cuda/10.2.89:/opt/ohpc/pub/modulefiles/gnu8/8.3.0
+CUDA_VISIBLE_DEVICES=0
+LANG=en_US.UTF-8
+MODULEPATH=/opt/ohpc/pub/moduledeps/gnu8:/opt/ohpc/pub/modulefiles
+LOADEDMODULES=cuda/10.2.89:gnu8/8.3.0
+SLURM_JOB_UID=666674
+_ModuleTable_Sz_=2
+LC_MEASUREMENT=fr_FR.UTF-8
+SLURM_NODEID=0
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=
+PS1=(venv) (base) 
+SLURM_SUBMIT_DIR=/home/hscheith/dev/EHRI/dev/EHRI-NER/dev
+SLURM_TASK_PID=13048
+SLURM_NPROCS=1
+LMOD_CMD=/opt/ohpc/admin/lmod/lmod/libexec/lmod
+SLURM_CPUS_ON_NODE=16
+SLURM_PROCID=0
+ENVIRONMENT=BATCH
+_CE_M=
+HISTCONTROL=ignoredups
+SLURM_JOB_NODELIST=gpu006
+SHLVL=5
+HOME=/home/hscheith
+__LMOD_REF_COUNT_PATH=/opt/ohpc/pub/compiler/gcc/8.3.0/bin:1;/opt/ohpc/pub/utils/cuda/10.2.89/samples:1;/opt/ohpc/pub/utils/cuda/10.2.89/nvvm/bin:1;/opt/ohpc/pub/utils/cuda/10.2.89/bin:1;/home/hscheith/dev/EHRI/dev/EHRI-NER/dev/venv/bin:1;/home/hscheith/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/bin/remote-cli:1;/home/hscheith/miniconda3/bin:1;/home/hscheith/miniconda3/condabin:1;/usr/local/bin:1;/usr/bin:1;/usr/local/sbin:1;/usr/sbin:1;/opt/puppetlabs/bin:1;/home/hscheith/.local/bin:2;/home/hscheith/bin:2
+SLURM_LOCALID=0
+SLURM_NTASKS_PER_CORE=65535
+VSCODE_GIT_ASKPASS_MAIN=/home/hscheith/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/git/dist/askpass-main.js
+_ModuleTable002_=Il09Mixwcm9wVD17fSxbInN0YWNrRGVwdGgiXT0wLFsic3RhdHVzIl09ImFjdGl2ZSIsWyJ1c2VyTmFtZSJdPSJnbnU4LzguMy4wIix9LH0sbXBhdGhBPXsiL29wdC9vaHBjL3B1Yi9tb2R1bGVkZXBzL2dudTgiLCIvb3B0L29ocGMvcHViL21vZHVsZWZpbGVzIix9LFsic3lzdGVtQmFzZU1QQVRIIl09Ii9vcHQvb2hwYy9wdWIvbW9kdWxlZmlsZXMiLH0=
+SLURM_JOB_GID=200445
+SLURM_JOB_CPUS_PER_NODE=16
+SLURM_CLUSTER_NAME=cleps
+__LMOD_REF_COUNT_INCLUDE=/opt/ohpc/pub/compiler/gcc/8.3.0/include:1
+SLURM_GTIDS=0
+SLURM_SUBMIT_HOST=cleps
+SLURM_JOB_PARTITION=gpu
+BASH_ENV=/opt/ohpc/admin/lmod/lmod/init/bash
+CONDA_PYTHON_EXE=/home/hscheith/miniconda3/bin/python
+LOGNAME=hscheith
+CVS_RSH=ssh
+GPU_DEVICE_ORDINAL=0
+SLURM_JOB_ACCOUNT=inria
+SSH_CONNECTION=128.93.176.17 35392 128.93.170.2 22
+VSCODE_GIT_IPC_HANDLE=/run/user/666674/vscode-git-2acd5dd5e5.sock
+SLURM_JOB_NUM_NODES=1
+MODULESHOME=/opt/ohpc/admin/lmod/lmod
+VSCODE_IPC_HOOK_CLI=/run/user/666674/vscode-ipc-431e3489-82a4-495a-b509-6bbae353b19f.sock
+__LMOD_REF_COUNT_LD_LIBRARY_PATH=/opt/ohpc/pub/compiler/gcc/8.3.0/lib64:1;/opt/ohpc/pub/utils/cuda/10.2.89/nvvm/lib64:1;/opt/ohpc/pub/utils/cuda/10.2.89/extras/CUPTI/lib64:1;/opt/ohpc/pub/utils/cuda/10.2.89/lib64/stubs:1;/opt/ohpc/pub/utils/cuda/10.2.89/lib64:1;/opt/ohpc/pub/utils/cuda/10.2.89/samples/common/lib/linux/x86_64:1;/opt/ohpc/pub/utils/cuda/10.2.89/targets/x86_64-linux/lib:1
+CONDA_DEFAULT_ENV=base
+LMOD_SETTARG_FULL_SUPPORT=no
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+BROWSER=/home/hscheith/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/bin/helpers/browser.sh
+LMOD_FAMILY_COMPILER=gnu8
+LMOD_FULL_SETTARG_SUPPORT=no
+GIT_ASKPASS=/home/hscheith/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/git/dist/askpass.sh
+VSCODE_GIT_ASKPASS_NODE=/home/hscheith/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/node
+XDG_RUNTIME_DIR=/run/user/666674
+INCLUDE=/opt/ohpc/pub/compiler/gcc/8.3.0/include
+__LMOD_REF_COUNT_MANPATH=/opt/ohpc/pub/compiler/gcc/8.3.0/share/man:1;/opt/ohpc/pub/utils/cuda/10.2.89/doc/man:1;/opt/puppetlabs/puppet/share/man:1
+LMOD_DIR=/opt/ohpc/admin/lmod/lmod/libexec
+LC_TIME=fr_FR.UTF-8
+LMOD_COLORIZE=no
+SCRATCH=/scratch/hscheith
+LC_NAME=fr_FR.UTF-8
+COLORTERM=truecolor
+BASH_FUNC_module()=() {  eval $($LMOD_CMD bash "$@") && eval $(${LMOD_SETTARG_CMD:-:} -s sh)
+}
+BASH_FUNC_ml()=() {  eval $($LMOD_DIR/ml_cmd "$@")
+}
+_=/usr/bin/printenv
+ 
+ ,-,
+/.(
+\ {
+ `-`
+ 
+Experience - Language: all - Number: 3_3
+Corpus: cs
+Cache directory:  ./tmp/cs_3_3
+Cache1 directory:  ./tmp/cs_3_3/__main__/EHRI/1.0.0
+Generating train split: 0 examples [00:00, ? examples/s]Generating train split: 918 examples [00:00, 9087.92 examples/s]Generating train split: 1897 examples [00:00, 9496.53 examples/s]Generating train split: 2974 examples [00:00, 10075.43 examples/s]Generating train split: 4402 examples [00:00, 9793.67 examples/s] Generating train split: 5902 examples [00:00, 9873.23 examples/s]Generating train split: 6236 examples [00:00, 9681.83 examples/s]
+DatasetDict({
+    train: Dataset({
+        features: ['id', 'tokens', 'ner_tags'],
+        num_rows: 4988
+    })
+    valid: Dataset({
+        features: ['id', 'tokens', 'ner_tags'],
+        num_rows: 624
+    })
+    test: Dataset({
+        features: ['id', 'tokens', 'ner_tags'],
+        num_rows: 624
+    })
+})
+{'id': '4398', 'tokens': ['Odborníků', 'bylo', 'mezi', 'nimi', 'málo', '.'], 'ner_tags': [12, 12, 12, 12, 12, 12]}
+Corpus: de
+Cache directory:  ./tmp/de_3_3
+Cache1 directory:  ./tmp/de_3_3/__main__/EHRI/1.0.0
+Generating train split: 0 examples [00:00, ? examples/s]Generating train split: 958 examples [00:00, 9503.36 examples/s]Generating train split: 2271 examples [00:00, 8982.10 examples/s]Generating train split: 3332 examples [00:00, 8031.82 examples/s]Generating train split: 4377 examples [00:00, 8801.75 examples/s]Generating train split: 5406 examples [00:00, 9264.37 examples/s]Generating train split: 6387 examples [00:00, 9429.50 examples/s]Generating train split: 7834 examples [00:00, 9511.42 examples/s]Generating train split: 9198 examples [00:01, 9358.85 examples/s]Generating train split: 10181 examples [00:01, 9479.23 examples/s]Generating train split: 11243 examples [00:01, 9354.67 examples/s]Generating train split: 11243 examples [00:01, 9152.26 examples/s]
+DatasetDict({
+    train: Dataset({
+        features: ['id', 'tokens', 'ner_tags'],
+        num_rows: 8994
+    })
+    valid: Dataset({
+        features: ['id', 'tokens', 'ner_tags'],
+        num_rows: 1124
+    })
+    test: Dataset({
+        features: ['id', 'tokens', 'ner_tags'],
+        num_rows: 1125
+    })
+})
+{'id': '7993', 'tokens': ['Leider', 'hatte', 'die', 'Tante', 'meiner', 'Freundin', 'Ruth', ',', 'welche', 'auch', 'illegal', 'gelebt', 'hatte', 'und', 'von', 'einem', 'Spitzel', 'erkannt', 'und', 'verhaftet', 'worden', 'war', '(', 'ein', 'gewisser', 'Rechtsanwalt', 'Jacob', 'die', 'Adresse', 'von', 'Jacobsons', 'bei', 'sich', 'und', 'so', 'nahm', 'die', 'Gestapo', 'mit', 'Recht', 'an', ',', 'dass', 'dort', 'auch', 'Illegale', 'zu', 'finden', 'waeren', '.'], 'ner_tags': [12, 12, 12, 12, 12, 12, 5, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 5, 12, 12, 12, 5, 12, 12, 12, 12, 12, 12, 4, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12]}
+Corpus: en
+Cache directory:  ./tmp/en_3_3
+Cache1 directory:  ./tmp/en_3_3/__main__/EHRI/1.0.0
+Generating train split: 0 examples [00:00, ? examples/s]Generating train split: 730 examples [00:00, 7235.01 examples/s]Generating train split: 1871 examples [00:00, 7482.60 examples/s]Generating train split: 2346 examples [00:00, 7534.34 examples/s]
+DatasetDict({
+    train: Dataset({
+        features: ['id', 'tokens', 'ner_tags'],
+        num_rows: 1876
+    })
+    valid: Dataset({
+        features: ['id', 'tokens', 'ner_tags'],
+        num_rows: 235
+    })
+    test: Dataset({
+        features: ['id', 'tokens', 'ner_tags'],
+        num_rows: 235
+    })
+})
+{'id': '971', 'tokens': ['8/13948', 'of', '29th', 'July', 'last', '.'], 'ner_tags': [12, 12, 1, 7, 12, 12]}
+Corpus: fr
+Cache directory:  ./tmp/fr_3_3
+Cache1 directory:  ./tmp/fr_3_3/__main__/EHRI/1.0.0
+Generating train split: 0 examples [00:00, ? examples/s]Generating train split: 134 examples [00:00, 6410.38 examples/s]
+DatasetDict({
+    train: Dataset({
+        features: ['id', 'tokens', 'ner_tags'],
+        num_rows: 107
+    })
+    valid: Dataset({
+        features: ['id', 'tokens', 'ner_tags'],
+        num_rows: 13
+    })
+    test: Dataset({
+        features: ['id', 'tokens', 'ner_tags'],
+        num_rows: 14
+    })
+})
+{'id': '45', 'tokens': ['A', 'la', 'gare', ',', 'devant', 'le', 'train', ',', 'un', 'second', 'contrôle', 'eut', 'lieu', '.'], 'ner_tags': [12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12]}
+Corpus: hu
+Cache directory:  ./tmp/hu_3_3
+Cache1 directory:  ./tmp/hu_3_3/__main__/EHRI/1.0.0
+Generating train split: 0 examples [00:00, ? examples/s]Generating train split: 1000 examples [00:00, 9490.28 examples/s]Generating train split: 1410 examples [00:00, 9199.39 examples/s]
+DatasetDict({
+    train: Dataset({
+        features: ['id', 'tokens', 'ner_tags'],
+        num_rows: 1128
+    })
+    valid: Dataset({
+        features: ['id', 'tokens', 'ner_tags'],
+        num_rows: 141
+    })
+    test: Dataset({
+        features: ['id', 'tokens', 'ner_tags'],
+        num_rows: 141
+    })
+})
+{'id': '367', 'tokens': ['Elsőrendű', 'orvosi', 'kezelést', 'kaptunk', '.'], 'ner_tags': [12, 12, 12, 12, 12]}
+Corpus: nl
+Cache directory:  ./tmp/nl_3_3
+Cache1 directory:  ./tmp/nl_3_3/__main__/EHRI/1.0.0
+Generating train split: 0 examples [00:00, ? examples/s]Generating train split: 98 examples [00:00, 6274.97 examples/s]
+DatasetDict({
+    train: Dataset({
+        features: ['id', 'tokens', 'ner_tags'],
+        num_rows: 78
+    })
+    valid: Dataset({
+        features: ['id', 'tokens', 'ner_tags'],
+        num_rows: 10
+    })
+    test: Dataset({
+        features: ['id', 'tokens', 'ner_tags'],
+        num_rows: 10
+    })
+})
+{'id': '82', 'tokens': ['Uit', 'een', 'statistiek', 'van', 'een', 'der', 'Joodsche', 'kerkhoven', 'in', 'Weenen', 'blijkt', ',', 'dat', 'in', 'de', 'eerste', 'weken', 'na', '10', 'November', '130', 'dodden', 'per', 'dag', 'moesten', 'worden', 'begraven', '.'], 'ner_tags': [12, 12, 12, 12, 12, 12, 12, 12, 12, 3, 12, 12, 12, 12, 12, 12, 12, 12, 1, 7, 12, 12, 12, 12, 12, 12, 12, 12]}
+Corpus: pl
+Cache directory:  ./tmp/pl_3_3
+Cache1 directory:  ./tmp/pl_3_3/__main__/EHRI/1.0.0
+Generating train split: 0 examples [00:00, ? examples/s]Generating train split: 1109 examples [00:00, 10999.51 examples/s]Generating train split: 1321 examples [00:00, 10791.41 examples/s]
+DatasetDict({
+    train: Dataset({
+        features: ['id', 'tokens', 'ner_tags'],
+        num_rows: 1056
+    })
+    valid: Dataset({
+        features: ['id', 'tokens', 'ner_tags'],
+        num_rows: 132
+    })
+    test: Dataset({
+        features: ['id', 'tokens', 'ner_tags'],
+        num_rows: 133
+    })
+})
+{'id': '640', 'tokens': ['Pracowali', 'w', 'stalowni', '.'], 'ner_tags': [12, 12, 12, 12]}
+Corpus: sk
+Cache directory:  ./tmp/sk_3_3
+Cache1 directory:  ./tmp/sk_3_3/__main__/EHRI/1.0.0
+Generating train split: 0 examples [00:00, ? examples/s]Generating train split: 140 examples [00:00, 5590.75 examples/s]
+DatasetDict({
+    train: Dataset({
+        features: ['id', 'tokens', 'ner_tags'],
+        num_rows: 112
+    })
+    valid: Dataset({
+        features: ['id', 'tokens', 'ner_tags'],
+        num_rows: 14
+    })
+    test: Dataset({
+        features: ['id', 'tokens', 'ner_tags'],
+        num_rows: 14
+    })
+})
+{'id': '21', 'tokens': ['územie', '.'], 'ner_tags': [12, 12]}
+Corpus: yi
+Cache directory:  ./tmp/yi_3_3
+Cache1 directory:  ./tmp/yi_3_3/__main__/EHRI/1.0.0
+Generating train split: 0 examples [00:00, ? examples/s]Generating train split: 1003 examples [00:00, 9934.88 examples/s]Generating train split: 2051 examples [00:00, 10245.81 examples/s]Generating train split: 3447 examples [00:00, 9719.04 examples/s] Generating train split: 4241 examples [00:00, 9730.38 examples/s]
+DatasetDict({
+    train: Dataset({
+        features: ['id', 'tokens', 'ner_tags'],
+        num_rows: 3392
+    })
+    valid: Dataset({
+        features: ['id', 'tokens', 'ner_tags'],
+        num_rows: 424
+    })
+    test: Dataset({
+        features: ['id', 'tokens', 'ner_tags'],
+        num_rows: 425
+    })
+})
+{'id': '2520', 'tokens': ['צו', 'מאָרגנס', 'האָט', 'ער', 'װידער', 'גענומען', 'אַרבעטער', '.'], 'ner_tags': [12, 12, 12, 12, 12, 12, 12, 12]}
+DatasetDict({
+    train: Dataset({
+        features: ['id', 'tokens', 'ner_tags'],
+        num_rows: 21731
+    })
+    valid: Dataset({
+        features: ['id', 'tokens', 'ner_tags'],
+        num_rows: 2717
+    })
+    test: Dataset({
+        features: ['id', 'tokens', 'ner_tags'],
+        num_rows: 2721
+    })
+})
+{'id': '4398', 'tokens': ['Odborníků', 'bylo', 'mezi', 'nimi', 'málo', '.'], 'ner_tags': [12, 12, 12, 12, 12, 12]}
+{'id': '1166', 'tokens': ['Vyzval', 'jsem', 'je', 'aby', 'opustili', 'ihned', 'synagogu', 'a', 'hrozil', 'jsem', 'jim', 'Gestapem', 'a', 'Zentralstelle', ',', 'načež', 'pánové', 'se', 'dali', 'na', 'spěšný', 'útěk', '.'], 'ner_tags': [12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 4, 12, 4, 12, 12, 12, 12, 12, 12, 12, 12, 12]}
+{'id': '1466', 'tokens': ['Helena', 'Schicková', 'Alex', '.', 'Schmiedt', 'Za', 'Dokumentační', 'akci', 'přijal', ':'], 'ner_tags': [5, 11, 5, 11, 11, 12, 12, 12, 12, 12]}
+{'id': '4824', 'tokens': ['Nenápadně', 'jsme', 'nechali', 'zmizet', 'několik', 'chlebů', 'v', 'kapsách', ',', 'protože', 'jsme', 'jeli', 'rakouské', 'nejistoty', 'stravovací', '.'], 'ner_tags': [12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 3, 12, 12, 12]}
+{'id': '1494', 'tokens': ['Mezi', 'obětmi', 'litoměřického', 'koncentračního', 'tábora', 'byla', 'celá', 'řada', 'našich', 'přátel', ',', 'mimo', 'jiné', 'Heinz', 'Schuster', 'a', 'Gert', 'Körbel', '.'], 'ner_tags': [12, 12, 3, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 5, 11, 12, 5, 11, 12]}
+{'id': '3013', 'tokens': ['Konečně', 'se', 'rozhodl', '.'], 'ner_tags': [12, 12, 12, 12]}
+{'id': '4761', 'tokens': ['Zdrcen', 'okolností', ',', 'že', 'se', 'našel', 'konečně', 'civilista', ',', 'který', 'mluví', 's', 'ním', 'v', 'jeho', 'řeči', ',', 'telefonoval', 's', 'různými', 'představenými', 'veliteli', 'a', 'stále', 'byl', 'sorry', ',', 'že', 'nás', 'musí', 'nechat', 'tak', 'dlouho', 'čekat', '.'], 'ner_tags': [12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12]}
+{'id': '11142', 'tokens': ['In', 'Wien', 'war', 'es', 'unter', 'den', 'herrschenden', 'Umstaenden', 'natuerlich', 'absolut', 'unmoeglich', ',', 'irgendeine', 'Arbeit', 'zu', 'finden', ',', 'auch', 'erlaubte', 'mein', 'Gesundheitszustand', 'nicht', 'schwere', 'koerperliche', 'Arbeit', 'auszufuehren', '.'], 'ner_tags': [12, 3, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12]}
+{'id': '3638', 'tokens': ['Am', 'selben', 'Abend', 'erscheinen', '2', 'Gestapo', 'fragen', 'nach', 'de', 'Namen', 'Zeckendorf', '.'], 'ner_tags': [12, 12, 12, 12, 12, 4, 12, 12, 12, 12, 12, 12]}
+{'id': '345', 'tokens': ['Klein', ',', 'že', 'na', 'hranici', 'československo', '-', 'rakouské', 'u', 'Bratislavy', 'v', 'pohraniční', 'stanici', 'Berg', 'jsou', 'na', 'československém', 'území', 'deložováni', 'židovští', 'uprchlíci', 'vyhoštění', 'z', 'Rakouska', ',', 'jejichž', 'stav', 'jest', 'beznadějný', 'a', 'žádal', 'za', 'vyšetření', 'a', 'podle', 'možnosti', 'za', 'ochranu', 'pro', 'ně', '.'], 'ner_tags': [5, 12, 12, 12, 12, 3, 12, 3, 12, 3, 12, 12, 12, 3, 12, 12, 3, 12, 12, 12, 12, 12, 12, 3, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12]}
+{'id': '2516', 'tokens': ['דער', 'רובֿ', 'האָט', 'אָבער', 'געװאָלט', 'אַהײמפֿאָרן', '.'], 'ner_tags': [12, 12, 12, 12, 12, 12, 12]}
+{'B-CAMP': 0, 'B-DATE': 1, 'B-GHETTO': 2, 'B-LOC': 3, 'B-ORG': 4, 'B-PERS': 5, 'I-CAMP': 6, 'I-DATE': 7, 'I-GHETTO': 8, 'I-LOC': 9, 'I-ORG': 10, 'I-PERS': 11, 'O': 12}
+{'B-CAMP': 0, 'B-DATE': 1, 'B-GHETTO': 2, 'B-LOC': 3, 'B-ORG': 4, 'B-PERS': 5, 'I-CAMP': 6, 'I-DATE': 7, 'I-GHETTO': 8, 'I-LOC': 9, 'I-ORG': 10, 'I-PERS': 11, 'O': 12}
+{'B-CAMP': 0, 'B-DATE': 1, 'B-GHETTO': 2, 'B-LOC': 3, 'B-ORG': 4, 'B-PERS': 5, 'I-CAMP': 6, 'I-DATE': 7, 'I-GHETTO': 8, 'I-LOC': 9, 'I-ORG': 10, 'I-PERS': 11, 'O': 12}
+{'B-CAMP': 0, 'B-DATE': 1, 'B-GHETTO': 2, 'B-LOC': 3, 'B-ORG': 4, 'B-PERS': 5, 'I-CAMP': 6, 'I-DATE': 7, 'I-GHETTO': 8, 'I-LOC': 9, 'I-ORG': 10, 'I-PERS': 11, 'O': 12}
+{'B-CAMP': 0, 'B-DATE': 1, 'B-GHETTO': 2, 'B-LOC': 3, 'B-ORG': 4, 'B-PERS': 5, 'I-CAMP': 6, 'I-DATE': 7, 'I-GHETTO': 8, 'I-LOC': 9, 'I-ORG': 10, 'I-PERS': 11, 'O': 12}
+{'B-CAMP': 0, 'B-DATE': 1, 'B-GHETTO': 2, 'B-LOC': 3, 'B-ORG': 4, 'B-PERS': 5, 'I-CAMP': 6, 'I-DATE': 7, 'I-GHETTO': 8, 'I-LOC': 9, 'I-ORG': 10, 'I-PERS': 11, 'O': 12}
+{'B-CAMP': 0, 'B-DATE': 1, 'B-GHETTO': 2, 'B-LOC': 3, 'B-ORG': 4, 'B-PERS': 5, 'I-CAMP': 6, 'I-DATE': 7, 'I-GHETTO': 8, 'I-LOC': 9, 'I-ORG': 10, 'I-PERS': 11, 'O': 12}
+{'B-CAMP': 0, 'B-DATE': 1, 'B-GHETTO': 2, 'B-LOC': 3, 'B-ORG': 4, 'B-PERS': 5, 'I-CAMP': 6, 'I-DATE': 7, 'I-GHETTO': 8, 'I-LOC': 9, 'I-ORG': 10, 'I-PERS': 11, 'O': 12}
+{'B-CAMP': 0, 'B-DATE': 1, 'B-GHETTO': 2, 'B-LOC': 3, 'B-ORG': 4, 'B-PERS': 5, 'I-CAMP': 6, 'I-DATE': 7, 'I-GHETTO': 8, 'I-LOC': 9, 'I-ORG': 10, 'I-PERS': 11, 'O': 12}
+Map:   0%|          | 0/21731 [00:00<?, ? examples/s]Map:   9%|▉         | 2000/21731 [00:00<00:01, 11114.63 examples/s]Map:  18%|█▊        | 4000/21731 [00:00<00:01, 11384.25 examples/s]Map:  28%|██▊       | 6000/21731 [00:00<00:01, 8717.94 examples/s] Map:  37%|███▋      | 8000/21731 [00:00<00:01, 9451.50 examples/s]Map:  46%|████▌     | 10000/21731 [00:01<00:01, 9857.92 examples/s]Map:  55%|█████▌    | 12000/21731 [00:01<00:00, 10212.14 examples/s]Map:  64%|██████▍   | 14000/21731 [00:01<00:00, 10410.39 examples/s]Map:  74%|███████▎  | 16000/21731 [00:01<00:00, 10126.89 examples/s]Map:  83%|████████▎ | 18000/21731 [00:01<00:00, 10653.19 examples/s]Map:  92%|█████████▏| 20000/21731 [00:01<00:00, 10775.96 examples/s]Map: 100%|██████████| 21731/21731 [00:02<00:00, 10720.41 examples/s]Map: 100%|██████████| 21731/21731 [00:02<00:00, 10099.95 examples/s]
+Map:   0%|          | 0/2717 [00:00<?, ? examples/s]Map:  74%|███████▎  | 2000/2717 [00:00<00:00, 6970.66 examples/s]Map: 100%|██████████| 2717/2717 [00:00<00:00, 7533.93 examples/s]
+Map:   0%|          | 0/2721 [00:00<?, ? examples/s]Map:  74%|███████▎  | 2000/2721 [00:00<00:00, 11062.27 examples/s]Map: 100%|██████████| 2721/2721 [00:00<00:00, 10621.77 examples/s]
+Some weights of XLMRobertaForTokenClassification were not initialized from the model checkpoint at xlm-roberta-large and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+Detected kernel version 3.10.0, which is below the recommended minimum of 5.5.0; this can cause the process to hang. It is recommended to upgrade the kernel to the minimum version or higher.
+  0%|          | 0/4077 [00:00<?, ?it/s]  0%|          | 1/4077 [00:00<24:42,  2.75it/s]  0%|          | 2/4077 [00:00<19:29,  3.48it/s]  0%|          | 3/4077 [00:01<25:42,  2.64it/s]  0%|          | 4/4077 [00:01<26:38,  2.55it/s]  0%|          | 5/4077 [00:01<26:16,  2.58it/s]  0%|          | 6/4077 [00:02<30:47,  2.20it/s]  0%|          | 7/4077 [00:02<26:29,  2.56it/s]  0%|          | 8/4077 [00:03<26:36,  2.55it/s]  0%|          | 9/4077 [00:03<27:12,  2.49it/s]  0%|          | 10/4077 [00:04<30:49,  2.20it/s]  0%|          | 11/4077 [00:04<30:24,  2.23it/s]  0%|          | 12/4077 [00:05<35:51,  1.89it/s]  0%|          | 13/4077 [00:05<30:23,  2.23it/s]  0%|          | 14/4077 [00:05<27:14,  2.49it/s]  0%|          | 15/4077 [00:06<25:15,  2.68it/s]  0%|          | 16/4077 [00:06<23:38,  2.86it/s]  0%|          | 17/4077 [00:06<24:35,  2.75it/s]  0%|          | 18/4077 [00:07<25:35,  2.64it/s]  0%|          | 19/4077 [00:07<23:45,  2.85it/s]  0%|          | 20/4077 [00:07<23:47,  2.84it/s]  1%|          | 21/4077 [00:08<28:12,  2.40it/s]  1%|          | 22/4077 [00:08<25:13,  2.68it/s]  1%|          | 23/4077 [00:09<25:33,  2.64it/s]  1%|          | 24/4077 [00:09<27:14,  2.48it/s]  1%|          | 25/4077 [00:09<25:24,  2.66it/s]  1%|          | 26/4077 [00:10<28:14,  2.39it/s]  1%|          | 27/4077 [00:10<25:55,  2.60it/s]  1%|          | 28/4077 [00:11<25:46,  2.62it/s]  1%|          | 29/4077 [00:11<24:33,  2.75it/s]  1%|          | 30/4077 [00:11<23:31,  2.87it/s]  1%|          | 31/4077 [00:12<22:25,  3.01it/s]  1%|          | 32/4077 [00:12<23:33,  2.86it/s]  1%|          | 33/4077 [00:12<22:54,  2.94it/s]  1%|          | 34/4077 [00:13<23:41,  2.84it/s]  1%|          | 35/4077 [00:13<24:55,  2.70it/s]  1%|          | 36/4077 [00:13<25:49,  2.61it/s]  1%|          | 37/4077 [00:14<24:16,  2.77it/s]  1%|          | 38/4077 [00:14<27:16,  2.47it/s]  1%|          | 39/4077 [00:15<26:30,  2.54it/s]  1%|          | 40/4077 [00:15<24:30,  2.75it/s]  1%|          | 41/4077 [00:15<24:17,  2.77it/s]  1%|          | 42/4077 [00:16<24:41,  2.72it/s]  1%|          | 43/4077 [00:16<23:36,  2.85it/s]  1%|          | 44/4077 [00:16<24:59,  2.69it/s]  1%|          | 45/4077 [00:17<23:16,  2.89it/s]  1%|          | 46/4077 [00:17<22:07,  3.04it/s]  1%|          | 47/4077 [00:17<23:57,  2.80it/s]  1%|          | 48/4077 [00:18<24:11,  2.78it/s]  1%|          | 49/4077 [00:18<22:51,  2.94it/s]  1%|          | 50/4077 [00:19<26:14,  2.56it/s]  1%|▏         | 51/4077 [00:19<26:15,  2.56it/s]  1%|▏         | 52/4077 [00:19<25:28,  2.63it/s]  1%|▏         | 53/4077 [00:20<23:57,  2.80it/s]  1%|▏         | 54/4077 [00:20<23:56,  2.80it/s]  1%|▏         | 55/4077 [00:20<22:31,  2.98it/s]  1%|▏         | 56/4077 [00:21<22:02,  3.04it/s]  1%|▏         | 57/4077 [00:21<22:32,  2.97it/s]  1%|▏         | 58/4077 [00:21<21:17,  3.15it/s]  1%|▏         | 59/4077 [00:22<22:01,  3.04it/s]  1%|▏         | 60/4077 [00:22<22:21,  3.00it/s]  1%|▏         | 61/4077 [00:22<22:01,  3.04it/s]  2%|▏         | 62/4077 [00:23<21:54,  3.06it/s]  2%|▏         | 63/4077 [00:23<25:28,  2.63it/s]  2%|▏         | 64/4077 [00:23<23:44,  2.82it/s]  2%|▏         | 65/4077 [00:24<23:58,  2.79it/s]  2%|▏         | 66/4077 [00:24<23:55,  2.79it/s]

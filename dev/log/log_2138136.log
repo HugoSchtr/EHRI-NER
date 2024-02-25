@@ -1,0 +1,297 @@
+==========================================
+SLURM_JOB_ID = 2138136
+SLURM_JOB_NODELIST = gpu006
+==========================================
+### Running EHRI_NER_multi_large_without_ter ###
+ 
+ ,-,
+/.(
+\ {
+ `-`
+ 
+Sun Feb 25 17:14:49 2024       
++---------------------------------------------------------------------------------------+
+| NVIDIA-SMI 545.29.02              Driver Version: 545.29.02    CUDA Version: 12.3     |
+|-----------------------------------------+----------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |         Memory-Usage | GPU-Util  Compute M. |
+|                                         |                      |               MIG M. |
+|=========================================+======================+======================|
+|   0  Quadro RTX 8000                On  | 00000000:25:00.0 Off |                    0 |
+| N/A   28C    P8              13W / 250W |      0MiB / 46080MiB |      0%      Default |
+|                                         |                      |                  N/A |
++-----------------------------------------+----------------------+----------------------+
+                                                                                         
++---------------------------------------------------------------------------------------+
+| Processes:                                                                            |
+|  GPU   GI   CI        PID   Type   Process name                            GPU Memory |
+|        ID   ID                                                             Usage      |
+|=======================================================================================|
+|  No running processes found                                                           |
++---------------------------------------------------------------------------------------+
+ 
+ ,-,
+/.(
+\ {
+ `-`
+ 
+LMOD_FAMILY_COMPILER_VERSION=8.3.0
+SLURM_NODELIST=gpu006
+LC_PAPER=fr_FR.UTF-8
+CUDA_PATH=/opt/ohpc/pub/utils/cuda/10.2.89
+SLURM_JOB_NAME=EHRI_NER_multi_large_without_ter
+MANPATH=/opt/ohpc/pub/compiler/gcc/8.3.0/share/man:/opt/ohpc/pub/utils/cuda/10.2.89/doc/man::/opt/puppetlabs/puppet/share/man
+XDG_SESSION_ID=103986
+LC_ADDRESS=fr_FR.UTF-8
+SLURMD_NODENAME=gpu006
+SLURM_TOPOLOGY_ADDR=gpu006
+HOSTNAME=gpu006
+LC_MONETARY=fr_FR.UTF-8
+TERM_PROGRAM=vscode
+SLURM_PRIO_PROCESS=0
+SLURM_NODE_ALIASES=(null)
+__LMOD_REF_COUNT_MODULEPATH=/opt/ohpc/pub/moduledeps/gnu8:1;/opt/ohpc/pub/modulefiles:1
+SHELL=/bin/bash
+TERM=xterm-256color
+SLURM_JOB_QOS=normal
+SLURM_HINT=multithread
+LMOD_ROOT=/opt/ohpc/admin/lmod
+PROJECT=/scratch/_projets_/almanach
+HISTSIZE=1000
+TMPDIR=/tmp
+SLURM_TOPOLOGY_ADDR_PATTERN=node
+SSH_CLIENT=128.93.176.17 35392 22
+CONDA_SHLVL=1
+CONDA_PROMPT_MODIFIER=(base) 
+TERM_PROGRAM_VERSION=1.81.1
+LMOD_PKG=/opt/ohpc/admin/lmod/lmod
+PUBLIC=/scratch/_public_
+LC_NUMERIC=fr_FR.UTF-8
+SLURM_JOB_GPUS=0
+LMOD_VERSION=8.1.18
+__LMOD_REF_COUNT_LOADEDMODULES=cuda/10.2.89:1;gnu8/8.3.0:1
+SLURM_MEM_PER_CPU=1984
+CUDA_HOME=/opt/ohpc/pub/utils/cuda/10.2.89
+ROCR_VISIBLE_DEVICES=0
+SLURM_NNODES=1
+USER=hscheith
+LD_LIBRARY_PATH=/opt/ohpc/pub/compiler/gcc/8.3.0/lib64:/opt/ohpc/pub/utils/cuda/10.2.89/nvvm/lib64:/opt/ohpc/pub/utils/cuda/10.2.89/extras/CUPTI/lib64:/opt/ohpc/pub/utils/cuda/10.2.89/lib64/stubs:/opt/ohpc/pub/utils/cuda/10.2.89/lib64:/opt/ohpc/pub/utils/cuda/10.2.89/samples/common/lib/linux/x86_64:/opt/ohpc/pub/utils/cuda/10.2.89/targets/x86_64-linux/lib
+LC_TELEPHONE=fr_FR.UTF-8
+LS_COLORS=rs=0:di=38;5;27:ln=38;5;51:mh=44;38;5;15:pi=40;38;5;11:so=38;5;13:do=38;5;5:bd=48;5;232;38;5;11:cd=48;5;232;38;5;3:or=48;5;232;38;5;9:mi=05;48;5;232;38;5;15:su=48;5;196;38;5;15:sg=48;5;11;38;5;16:ca=48;5;196;38;5;226:tw=48;5;10;38;5;16:ow=48;5;10;38;5;21:st=48;5;21;38;5;15:ex=38;5;34:*.tar=38;5;9:*.tgz=38;5;9:*.arc=38;5;9:*.arj=38;5;9:*.taz=38;5;9:*.lha=38;5;9:*.lz4=38;5;9:*.lzh=38;5;9:*.lzma=38;5;9:*.tlz=38;5;9:*.txz=38;5;9:*.tzo=38;5;9:*.t7z=38;5;9:*.zip=38;5;9:*.z=38;5;9:*.Z=38;5;9:*.dz=38;5;9:*.gz=38;5;9:*.lrz=38;5;9:*.lz=38;5;9:*.lzo=38;5;9:*.xz=38;5;9:*.bz2=38;5;9:*.bz=38;5;9:*.tbz=38;5;9:*.tbz2=38;5;9:*.tz=38;5;9:*.deb=38;5;9:*.rpm=38;5;9:*.jar=38;5;9:*.war=38;5;9:*.ear=38;5;9:*.sar=38;5;9:*.rar=38;5;9:*.alz=38;5;9:*.ace=38;5;9:*.zoo=38;5;9:*.cpio=38;5;9:*.7z=38;5;9:*.rz=38;5;9:*.cab=38;5;9:*.jpg=38;5;13:*.jpeg=38;5;13:*.gif=38;5;13:*.bmp=38;5;13:*.pbm=38;5;13:*.pgm=38;5;13:*.ppm=38;5;13:*.tga=38;5;13:*.xbm=38;5;13:*.xpm=38;5;13:*.tif=38;5;13:*.tiff=38;5;13:*.png=38;5;13:*.svg=38;5;13:*.svgz=38;5;13:*.mng=38;5;13:*.pcx=38;5;13:*.mov=38;5;13:*.mpg=38;5;13:*.mpeg=38;5;13:*.m2v=38;5;13:*.mkv=38;5;13:*.webm=38;5;13:*.ogm=38;5;13:*.mp4=38;5;13:*.m4v=38;5;13:*.mp4v=38;5;13:*.vob=38;5;13:*.qt=38;5;13:*.nuv=38;5;13:*.wmv=38;5;13:*.asf=38;5;13:*.rm=38;5;13:*.rmvb=38;5;13:*.flc=38;5;13:*.avi=38;5;13:*.fli=38;5;13:*.flv=38;5;13:*.gl=38;5;13:*.dl=38;5;13:*.xcf=38;5;13:*.xwd=38;5;13:*.yuv=38;5;13:*.cgm=38;5;13:*.emf=38;5;13:*.axv=38;5;13:*.anx=38;5;13:*.ogv=38;5;13:*.ogx=38;5;13:*.aac=38;5;45:*.au=38;5;45:*.flac=38;5;45:*.mid=38;5;45:*.midi=38;5;45:*.mka=38;5;45:*.mp3=38;5;45:*.mpc=38;5;45:*.ogg=38;5;45:*.ra=38;5;45:*.wav=38;5;45:*.axa=38;5;45:*.oga=38;5;45:*.spx=38;5;45:*.xspf=38;5;45:
+TMP_DIR=/local/2138136
+CONDA_EXE=/home/hscheith/miniconda3/bin/conda
+SLURM_JOBID=2138136
+__LMOD_REF_COUNT__LMFILES_=/opt/ohpc/pub/modulefiles/cuda/10.2.89:1;/opt/ohpc/pub/modulefiles/gnu8/8.3.0:1
+SLURM_NTASKS=1
+VIRTUAL_ENV=/home/hscheith/dev/EHRI/dev/EHRI-NER/dev/venv
+_CE_CONDA=
+LMOD_PREPEND_BLOCK=normal
+CUDA_INSTALL_PATH=/opt/ohpc/pub/utils/cuda/10.2.89
+SLURM_TASKS_PER_NODE=1
+_ModuleTable001_=X01vZHVsZVRhYmxlXz17WyJNVHZlcnNpb24iXT0zLFsiY19yZWJ1aWxkVGltZSJdPWZhbHNlLFsiY19zaG9ydFRpbWUiXT1mYWxzZSxkZXB0aFQ9e30sZmFtaWx5PXtbImNvbXBpbGVyIl09ImdudTgiLH0sbVQ9e2N1ZGE9e1siZm4iXT0iL29wdC9vaHBjL3B1Yi9tb2R1bGVmaWxlcy9jdWRhLzEwLjIuODkiLFsiZnVsbE5hbWUiXT0iY3VkYS8xMC4yLjg5IixbImxvYWRPcmRlciJdPTEscHJvcFQ9e30sWyJzdGFja0RlcHRoIl09MCxbInN0YXR1cyJdPSJhY3RpdmUiLFsidXNlck5hbWUiXT0iY3VkYS8xMC4yLjg5Iix9LGdudTg9e1siZm4iXT0iL29wdC9vaHBjL3B1Yi9tb2R1bGVmaWxlcy9nbnU4LzguMy4wIixbImZ1bGxOYW1lIl09ImdudTgvOC4zLjAiLFsibG9hZE9yZGVy
+MAIL=/var/spool/mail/hscheith
+PATH=/home/hscheith/dev/EHRI/dev/EHRI-NER/dev/venv/bin:/opt/ohpc/pub/compiler/gcc/8.3.0/bin:/opt/ohpc/pub/utils/cuda/10.2.89/samples:/opt/ohpc/pub/utils/cuda/10.2.89/nvvm/bin:/opt/ohpc/pub/utils/cuda/10.2.89/bin:/home/hscheith/dev/EHRI/dev/EHRI-NER/dev/venv/bin:/home/hscheith/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/bin/remote-cli:/home/hscheith/miniconda3/bin:/home/hscheith/miniconda3/condabin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/puppetlabs/bin:/home/hscheith/.local/bin:/home/hscheith/bin
+SLURM_WORKING_CLUSTER=cleps:cleps-sifu:6817:9216:109
+SLURM_CONF=/etc/slurm/slurm.conf
+SLURM_JOB_ID=2138136
+SLURM_CPUS_PER_TASK=16
+C_INCLUDE_PATH=/opt/ohpc/pub/utils/cuda/10.2.89/include
+CONDA_PREFIX=/home/hscheith/miniconda3
+LMOD_SETTARG_CMD=:
+LC_IDENTIFICATION=fr_FR.UTF-8
+SLURM_JOB_USER=hscheith
+PWD=/home/hscheith/dev/EHRI/dev/EHRI-NER/dev
+_LMFILES_=/opt/ohpc/pub/modulefiles/cuda/10.2.89:/opt/ohpc/pub/modulefiles/gnu8/8.3.0
+CUDA_VISIBLE_DEVICES=0
+LANG=en_US.UTF-8
+MODULEPATH=/opt/ohpc/pub/moduledeps/gnu8:/opt/ohpc/pub/modulefiles
+LOADEDMODULES=cuda/10.2.89:gnu8/8.3.0
+SLURM_JOB_UID=666674
+_ModuleTable_Sz_=2
+LC_MEASUREMENT=fr_FR.UTF-8
+SLURM_NODEID=0
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=
+PS1=(venv) (base) 
+SLURM_SUBMIT_DIR=/home/hscheith/dev/EHRI/dev/EHRI-NER/dev
+SLURM_TASK_PID=4542
+SLURM_NPROCS=1
+LMOD_CMD=/opt/ohpc/admin/lmod/lmod/libexec/lmod
+SLURM_CPUS_ON_NODE=16
+SLURM_PROCID=0
+ENVIRONMENT=BATCH
+_CE_M=
+HISTCONTROL=ignoredups
+SLURM_JOB_NODELIST=gpu006
+SHLVL=5
+HOME=/home/hscheith
+__LMOD_REF_COUNT_PATH=/opt/ohpc/pub/compiler/gcc/8.3.0/bin:1;/opt/ohpc/pub/utils/cuda/10.2.89/samples:1;/opt/ohpc/pub/utils/cuda/10.2.89/nvvm/bin:1;/opt/ohpc/pub/utils/cuda/10.2.89/bin:1;/home/hscheith/dev/EHRI/dev/EHRI-NER/dev/venv/bin:1;/home/hscheith/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/bin/remote-cli:1;/home/hscheith/miniconda3/bin:1;/home/hscheith/miniconda3/condabin:1;/usr/local/bin:1;/usr/bin:1;/usr/local/sbin:1;/usr/sbin:1;/opt/puppetlabs/bin:1;/home/hscheith/.local/bin:2;/home/hscheith/bin:2
+SLURM_LOCALID=0
+SLURM_NTASKS_PER_CORE=65535
+VSCODE_GIT_ASKPASS_MAIN=/home/hscheith/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/git/dist/askpass-main.js
+_ModuleTable002_=Il09Mixwcm9wVD17fSxbInN0YWNrRGVwdGgiXT0wLFsic3RhdHVzIl09ImFjdGl2ZSIsWyJ1c2VyTmFtZSJdPSJnbnU4LzguMy4wIix9LH0sbXBhdGhBPXsiL29wdC9vaHBjL3B1Yi9tb2R1bGVkZXBzL2dudTgiLCIvb3B0L29ocGMvcHViL21vZHVsZWZpbGVzIix9LFsic3lzdGVtQmFzZU1QQVRIIl09Ii9vcHQvb2hwYy9wdWIvbW9kdWxlZmlsZXMiLH0=
+SLURM_JOB_GID=200445
+SLURM_JOB_CPUS_PER_NODE=16
+SLURM_CLUSTER_NAME=cleps
+__LMOD_REF_COUNT_INCLUDE=/opt/ohpc/pub/compiler/gcc/8.3.0/include:1
+SLURM_GTIDS=0
+SLURM_SUBMIT_HOST=cleps
+SLURM_JOB_PARTITION=gpu
+BASH_ENV=/opt/ohpc/admin/lmod/lmod/init/bash
+CONDA_PYTHON_EXE=/home/hscheith/miniconda3/bin/python
+LOGNAME=hscheith
+CVS_RSH=ssh
+GPU_DEVICE_ORDINAL=0
+SLURM_JOB_ACCOUNT=inria
+SSH_CONNECTION=128.93.176.17 35392 128.93.170.2 22
+VSCODE_GIT_IPC_HANDLE=/run/user/666674/vscode-git-2acd5dd5e5.sock
+SLURM_JOB_NUM_NODES=1
+MODULESHOME=/opt/ohpc/admin/lmod/lmod
+VSCODE_IPC_HOOK_CLI=/run/user/666674/vscode-ipc-431e3489-82a4-495a-b509-6bbae353b19f.sock
+__LMOD_REF_COUNT_LD_LIBRARY_PATH=/opt/ohpc/pub/compiler/gcc/8.3.0/lib64:1;/opt/ohpc/pub/utils/cuda/10.2.89/nvvm/lib64:1;/opt/ohpc/pub/utils/cuda/10.2.89/extras/CUPTI/lib64:1;/opt/ohpc/pub/utils/cuda/10.2.89/lib64/stubs:1;/opt/ohpc/pub/utils/cuda/10.2.89/lib64:1;/opt/ohpc/pub/utils/cuda/10.2.89/samples/common/lib/linux/x86_64:1;/opt/ohpc/pub/utils/cuda/10.2.89/targets/x86_64-linux/lib:1
+CONDA_DEFAULT_ENV=base
+LMOD_SETTARG_FULL_SUPPORT=no
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+BROWSER=/home/hscheith/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/bin/helpers/browser.sh
+LMOD_FAMILY_COMPILER=gnu8
+LMOD_FULL_SETTARG_SUPPORT=no
+GIT_ASKPASS=/home/hscheith/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/git/dist/askpass.sh
+VSCODE_GIT_ASKPASS_NODE=/home/hscheith/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/node
+XDG_RUNTIME_DIR=/run/user/666674
+INCLUDE=/opt/ohpc/pub/compiler/gcc/8.3.0/include
+__LMOD_REF_COUNT_MANPATH=/opt/ohpc/pub/compiler/gcc/8.3.0/share/man:1;/opt/ohpc/pub/utils/cuda/10.2.89/doc/man:1;/opt/puppetlabs/puppet/share/man:1
+LMOD_DIR=/opt/ohpc/admin/lmod/lmod/libexec
+LC_TIME=fr_FR.UTF-8
+LMOD_COLORIZE=no
+SCRATCH=/scratch/hscheith
+LC_NAME=fr_FR.UTF-8
+COLORTERM=truecolor
+BASH_FUNC_module()=() {  eval $($LMOD_CMD bash "$@") && eval $(${LMOD_SETTARG_CMD:-:} -s sh)
+}
+BASH_FUNC_ml()=() {  eval $($LMOD_DIR/ml_cmd "$@")
+}
+_=/usr/bin/printenv
+ 
+ ,-,
+/.(
+\ {
+ `-`
+ 
+Experience - Language: pl - Number: 1_1
+Cache directory:  ./tmp/pl_1_1
+Cache1 directory:  ./tmp/pl_1_1/__main__/EHRI/1.0.0
+Generating train split: 0 examples [00:00, ? examples/s]Generating train split: 1080 examples [00:00, 10721.15 examples/s]Generating train split: 1321 examples [00:00, 10576.61 examples/s]
+DatasetDict({
+    train: Dataset({
+        features: ['id', 'tokens', 'ner_tags'],
+        num_rows: 1056
+    })
+    valid: Dataset({
+        features: ['id', 'tokens', 'ner_tags'],
+        num_rows: 132
+    })
+    test: Dataset({
+        features: ['id', 'tokens', 'ner_tags'],
+        num_rows: 133
+    })
+})
+{'id': '640', 'tokens': ['Pracowali', 'w', 'stalowni', '.'], 'ner_tags': [12, 12, 12, 12]}
+{'B-CAMP': 0, 'B-DATE': 1, 'B-GHETTO': 2, 'B-LOC': 3, 'B-ORG': 4, 'B-PERS': 5, 'I-CAMP': 6, 'I-DATE': 7, 'I-GHETTO': 8, 'I-LOC': 9, 'I-ORG': 10, 'I-PERS': 11, 'O': 12}
+Map:   0%|          | 0/1056 [00:00<?, ? examples/s]Map: 100%|██████████| 1056/1056 [00:00<00:00, 10653.48 examples/s]
+Map:   0%|          | 0/132 [00:00<?, ? examples/s]Map: 100%|██████████| 132/132 [00:00<00:00, 6337.04 examples/s]
+Map:   0%|          | 0/133 [00:00<?, ? examples/s]Map: 100%|██████████| 133/133 [00:00<00:00, 6299.39 examples/s]
+Some weights of XLMRobertaForTokenClassification were not initialized from the model checkpoint at xlm-roberta-large and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+Detected kernel version 3.10.0, which is below the recommended minimum of 5.5.0; this can cause the process to hang. It is recommended to upgrade the kernel to the minimum version or higher.
+  0%|          | 0/198 [00:00<?, ?it/s]  1%|          | 1/198 [00:00<01:08,  2.86it/s]  1%|          | 2/198 [00:00<00:51,  3.82it/s]  2%|▏         | 3/198 [00:00<00:51,  3.76it/s]  2%|▏         | 4/198 [00:01<00:54,  3.54it/s]  3%|▎         | 5/198 [00:02<01:55,  1.67it/s]  3%|▎         | 6/198 [00:02<01:34,  2.03it/s]  4%|▎         | 7/198 [00:02<01:22,  2.30it/s]  4%|▍         | 8/198 [00:03<01:27,  2.18it/s]  5%|▍         | 9/198 [00:03<01:18,  2.41it/s]  5%|▌         | 10/198 [00:04<01:11,  2.65it/s]  6%|▌         | 11/198 [00:04<01:09,  2.69it/s]  6%|▌         | 12/198 [00:04<01:07,  2.75it/s]  7%|▋         | 13/198 [00:05<01:03,  2.92it/s]  7%|▋         | 14/198 [00:05<01:06,  2.79it/s]  8%|▊         | 15/198 [00:05<01:03,  2.87it/s]  8%|▊         | 16/198 [00:06<01:04,  2.83it/s]  9%|▊         | 17/198 [00:06<01:06,  2.72it/s]  9%|▉         | 18/198 [00:06<01:00,  2.97it/s] 10%|▉         | 19/198 [00:07<00:55,  3.24it/s] 10%|█         | 20/198 [00:07<00:55,  3.22it/s] 11%|█         | 21/198 [00:07<00:59,  2.99it/s] 11%|█         | 22/198 [00:07<00:55,  3.19it/s] 12%|█▏        | 23/198 [00:08<00:53,  3.27it/s] 12%|█▏        | 24/198 [00:08<00:53,  3.22it/s] 13%|█▎        | 25/198 [00:08<00:56,  3.05it/s] 13%|█▎        | 26/198 [00:09<00:53,  3.22it/s] 14%|█▎        | 27/198 [00:09<00:52,  3.26it/s] 14%|█▍        | 28/198 [00:09<00:52,  3.24it/s] 15%|█▍        | 29/198 [00:10<00:51,  3.30it/s] 15%|█▌        | 30/198 [00:10<00:48,  3.46it/s] 16%|█▌        | 31/198 [00:10<00:51,  3.23it/s] 16%|█▌        | 32/198 [00:11<00:51,  3.22it/s] 17%|█▋        | 33/198 [00:11<00:50,  3.27it/s] 17%|█▋        | 34/198 [00:11<00:48,  3.41it/s] 18%|█▊        | 35/198 [00:11<00:44,  3.66it/s] 18%|█▊        | 36/198 [00:12<00:45,  3.60it/s] 19%|█▊        | 37/198 [00:12<00:45,  3.56it/s] 19%|█▉        | 38/198 [00:12<00:43,  3.64it/s] 20%|█▉        | 39/198 [00:12<00:42,  3.77it/s] 20%|██        | 40/198 [00:13<00:46,  3.38it/s] 21%|██        | 41/198 [00:13<00:49,  3.15it/s] 21%|██        | 42/198 [00:13<00:49,  3.14it/s] 22%|██▏       | 43/198 [00:14<00:47,  3.28it/s] 22%|██▏       | 44/198 [00:14<00:44,  3.45it/s] 23%|██▎       | 45/198 [00:14<00:42,  3.62it/s] 23%|██▎       | 46/198 [00:14<00:39,  3.83it/s] 24%|██▎       | 47/198 [00:15<00:39,  3.78it/s] 24%|██▍       | 48/198 [00:15<00:39,  3.78it/s] 25%|██▍       | 49/198 [00:15<00:44,  3.34it/s] 25%|██▌       | 50/198 [00:16<00:41,  3.52it/s] 26%|██▌       | 51/198 [00:16<00:45,  3.23it/s] 26%|██▋       | 52/198 [00:16<00:45,  3.20it/s] 27%|██▋       | 53/198 [00:17<00:47,  3.08it/s] 27%|██▋       | 54/198 [00:17<00:45,  3.16it/s] 28%|██▊       | 55/198 [00:17<00:43,  3.29it/s] 28%|██▊       | 56/198 [00:18<00:43,  3.26it/s] 29%|██▉       | 57/198 [00:18<00:40,  3.46it/s] 29%|██▉       | 58/198 [00:18<00:40,  3.45it/s] 30%|██▉       | 59/198 [00:18<00:40,  3.42it/s] 30%|███       | 60/198 [00:19<00:40,  3.41it/s] 31%|███       | 61/198 [00:19<00:39,  3.48it/s] 31%|███▏      | 62/198 [00:19<00:39,  3.42it/s] 32%|███▏      | 63/198 [00:20<00:38,  3.50it/s] 32%|███▏      | 64/198 [00:20<00:41,  3.22it/s] 33%|███▎      | 65/198 [00:20<00:39,  3.34it/s] 33%|███▎      | 66/198 [00:20<00:40,  3.29it/s]
+  0%|          | 0/9 [00:00<?, ?it/s][A
+ 33%|███▎      | 3/9 [00:00<00:00, 17.66it/s][A
+ 56%|█████▌    | 5/9 [00:00<00:00, 14.48it/s][A
+ 78%|███████▊  | 7/9 [00:00<00:00, 12.37it/s][A/home/hscheith/dev/EHRI/dev/EHRI-NER/dev/venv/lib/python3.9/site-packages/seqeval/metrics/v1.py:57: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+                                                
+                                             [A 33%|███▎      | 66/198 [00:21<00:40,  3.29it/s]
+100%|██████████| 9/9 [00:00<00:00, 12.37it/s][A
+                                             [A 34%|███▍      | 67/198 [00:22<01:08,  1.92it/s] 34%|███▍      | 68/198 [00:22<00:59,  2.18it/s] 35%|███▍      | 69/198 [00:22<00:54,  2.35it/s] 35%|███▌      | 70/198 [00:22<00:48,  2.66it/s] 36%|███▌      | 71/198 [00:23<00:44,  2.83it/s] 36%|███▋      | 72/198 [00:23<00:41,  3.03it/s] 37%|███▋      | 73/198 [00:23<00:38,  3.28it/s] 37%|███▋      | 74/198 [00:23<00:34,  3.58it/s] 38%|███▊      | 75/198 [00:24<00:34,  3.61it/s] 38%|███▊      | 76/198 [00:24<00:32,  3.74it/s] 39%|███▉      | 77/198 [00:24<00:32,  3.72it/s] 39%|███▉      | 78/198 [00:25<00:33,  3.54it/s] 40%|███▉      | 79/198 [00:25<00:34,  3.43it/s] 40%|████      | 80/198 [00:25<00:34,  3.41it/s] 41%|████      | 81/198 [00:26<00:35,  3.32it/s] 41%|████▏     | 82/198 [00:26<00:35,  3.31it/s] 42%|████▏     | 83/198 [00:26<00:34,  3.29it/s] 42%|████▏     | 84/198 [00:26<00:33,  3.39it/s] 43%|████▎     | 85/198 [00:27<00:31,  3.58it/s] 43%|████▎     | 86/198 [00:27<00:31,  3.61it/s] 44%|████▍     | 87/198 [00:27<00:30,  3.70it/s] 44%|████▍     | 88/198 [00:28<00:32,  3.34it/s] 45%|████▍     | 89/198 [00:28<00:30,  3.53it/s] 45%|████▌     | 90/198 [00:28<00:34,  3.14it/s] 46%|████▌     | 91/198 [00:28<00:33,  3.17it/s] 46%|████▋     | 92/198 [00:29<00:31,  3.40it/s] 47%|████▋     | 93/198 [00:29<00:30,  3.48it/s] 47%|████▋     | 94/198 [00:29<00:28,  3.60it/s] 48%|████▊     | 95/198 [00:30<00:28,  3.61it/s] 48%|████▊     | 96/198 [00:30<00:31,  3.29it/s] 49%|████▉     | 97/198 [00:30<00:33,  3.02it/s] 49%|████▉     | 98/198 [00:31<00:33,  2.97it/s] 50%|█████     | 99/198 [00:31<00:32,  3.07it/s] 51%|█████     | 100/198 [00:31<00:32,  2.98it/s] 51%|█████     | 101/198 [00:32<00:29,  3.25it/s] 52%|█████▏    | 102/198 [00:32<00:29,  3.30it/s] 52%|█████▏    | 103/198 [00:32<00:27,  3.40it/s] 53%|█████▎    | 104/198 [00:32<00:28,  3.32it/s] 53%|█████▎    | 105/198 [00:33<00:30,  3.02it/s] 54%|█████▎    | 106/198 [00:33<00:35,  2.60it/s] 54%|█████▍    | 107/198 [00:34<00:31,  2.89it/s] 55%|█████▍    | 108/198 [00:34<00:28,  3.14it/s] 55%|█████▌    | 109/198 [00:34<00:29,  3.03it/s] 56%|█████▌    | 110/198 [00:35<00:30,  2.93it/s] 56%|█████▌    | 111/198 [00:35<00:27,  3.19it/s] 57%|█████▋    | 112/198 [00:35<00:25,  3.31it/s] 57%|█████▋    | 113/198 [00:35<00:25,  3.27it/s] 58%|█████▊    | 114/198 [00:36<00:25,  3.33it/s] 58%|█████▊    | 115/198 [00:36<00:25,  3.26it/s] 59%|█████▊    | 116/198 [00:36<00:26,  3.08it/s] 59%|█████▉    | 117/198 [00:37<00:25,  3.16it/s] 60%|█████▉    | 118/198 [00:37<00:24,  3.30it/s] 60%|██████    | 119/198 [00:37<00:22,  3.50it/s] 61%|██████    | 120/198 [00:37<00:22,  3.54it/s] 61%|██████    | 121/198 [00:38<00:21,  3.57it/s] 62%|██████▏   | 122/198 [00:38<00:21,  3.47it/s] 62%|██████▏   | 123/198 [00:38<00:23,  3.20it/s] 63%|██████▎   | 124/198 [00:39<00:23,  3.18it/s] 63%|██████▎   | 125/198 [00:39<00:22,  3.18it/s] 64%|██████▎   | 126/198 [00:39<00:21,  3.31it/s] 64%|██████▍   | 127/198 [00:40<00:21,  3.32it/s] 65%|██████▍   | 128/198 [00:40<00:22,  3.12it/s] 65%|██████▌   | 129/198 [00:40<00:22,  3.01it/s] 66%|██████▌   | 130/198 [00:41<00:22,  3.03it/s] 66%|██████▌   | 131/198 [00:41<00:20,  3.21it/s] 67%|██████▋   | 132/198 [00:42<00:37,  1.78it/s]
+
+{'CAMP': {'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 4}, 'DATE': {'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 12}, 'GHETTO': {'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 2}, 'LOC': {'precision': 0.5121951219512195, 'recall': 0.6774193548387096, 'f1': 0.5833333333333334, 'number': 31}, 'ORG': {'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 6}, 'PERS': {'precision': 0.11538461538461539, 'recall': 0.12, 'f1': 0.11764705882352941, 'number': 25}, 'overall_precision': 0.35294117647058826, 'overall_recall': 0.3, 'overall_f1': 0.3243243243243243, 'overall_accuracy': 0.954260953298026}
+
+
+{'eval_loss': 0.14939191937446594, 'eval_precision': 0.35294117647058826, 'eval_recall': 0.3, 'eval_f1': 0.3243243243243243, 'eval_accuracy': 0.954260953298026, 'eval_runtime': 0.7988, 'eval_samples_per_second': 165.251, 'eval_steps_per_second': 11.267, 'epoch': 1.0}
+
+  0%|          | 0/9 [00:00<?, ?it/s][A
+ 33%|███▎      | 3/9 [00:00<00:00, 17.63it/s][A
+ 56%|█████▌    | 5/9 [00:00<00:00, 14.41it/s][A
+ 78%|███████▊  | 7/9 [00:00<00:00, 12.30it/s][A                                                 
+                                             [A 67%|██████▋   | 132/198 [00:43<00:37,  1.78it/s]
+100%|██████████| 9/9 [00:00<00:00, 12.30it/s][A
+                                             [A 67%|██████▋   | 133/198 [00:43<00:44,  1.46it/s] 68%|██████▊   | 134/198 [00:43<00:35,  1.81it/s] 68%|██████▊   | 135/198 [00:44<00:29,  2.17it/s] 69%|██████▊   | 136/198 [00:44<00:25,  2.44it/s] 69%|██████▉   | 137/198 [00:44<00:22,  2.73it/s] 70%|██████▉   | 138/198 [00:45<00:22,  2.67it/s] 70%|███████   | 139/198 [00:45<00:20,  2.85it/s] 71%|███████   | 140/198 [00:45<00:20,  2.81it/s] 71%|███████   | 141/198 [00:45<00:19,  2.96it/s] 72%|███████▏  | 142/198 [00:46<00:17,  3.14it/s] 72%|███████▏  | 143/198 [00:46<00:16,  3.37it/s] 73%|███████▎  | 144/198 [00:46<00:16,  3.20it/s] 73%|███████▎  | 145/198 [00:47<00:17,  2.95it/s] 74%|███████▎  | 146/198 [00:47<00:16,  3.06it/s] 74%|███████▍  | 147/198 [00:47<00:17,  2.86it/s] 75%|███████▍  | 148/198 [00:48<00:16,  2.96it/s] 75%|███████▌  | 149/198 [00:48<00:16,  2.92it/s] 76%|███████▌  | 150/198 [00:48<00:16,  2.86it/s] 76%|███████▋  | 151/198 [00:49<00:15,  3.09it/s] 77%|███████▋  | 152/198 [00:49<00:14,  3.16it/s] 77%|███████▋  | 153/198 [00:49<00:13,  3.23it/s] 78%|███████▊  | 154/198 [00:50<00:13,  3.29it/s] 78%|███████▊  | 155/198 [00:50<00:13,  3.09it/s] 79%|███████▉  | 156/198 [00:51<00:24,  1.74it/s] 79%|███████▉  | 157/198 [00:51<00:20,  2.05it/s] 80%|███████▉  | 158/198 [00:52<00:17,  2.22it/s] 80%|████████  | 159/198 [00:52<00:15,  2.55it/s] 81%|████████  | 160/198 [00:52<00:14,  2.71it/s] 81%|████████▏ | 161/198 [00:53<00:13,  2.71it/s] 82%|████████▏ | 162/198 [00:53<00:13,  2.68it/s] 82%|████████▏ | 163/198 [00:53<00:12,  2.71it/s] 83%|████████▎ | 164/198 [00:54<00:13,  2.43it/s] 83%|████████▎ | 165/198 [00:54<00:12,  2.63it/s] 84%|████████▍ | 166/198 [00:55<00:11,  2.83it/s] 84%|████████▍ | 167/198 [00:55<00:10,  2.93it/s] 85%|████████▍ | 168/198 [00:55<00:09,  3.10it/s] 85%|████████▌ | 169/198 [00:56<00:09,  3.12it/s] 86%|████████▌ | 170/198 [00:56<00:08,  3.19it/s] 86%|████████▋ | 171/198 [00:56<00:08,  3.15it/s] 87%|████████▋ | 172/198 [00:56<00:07,  3.28it/s] 87%|████████▋ | 173/198 [00:57<00:07,  3.34it/s] 88%|████████▊ | 174/198 [00:57<00:07,  3.32it/s] 88%|████████▊ | 175/198 [00:57<00:06,  3.33it/s] 89%|████████▉ | 176/198 [00:58<00:06,  3.41it/s] 89%|████████▉ | 177/198 [00:58<00:06,  3.48it/s] 90%|████████▉ | 178/198 [00:58<00:05,  3.53it/s] 90%|█████████ | 179/198 [00:59<00:06,  3.16it/s] 91%|█████████ | 180/198 [00:59<00:05,  3.46it/s] 91%|█████████▏| 181/198 [00:59<00:04,  3.50it/s] 92%|█████████▏| 182/198 [00:59<00:04,  3.54it/s] 92%|█████████▏| 183/198 [01:00<00:04,  3.50it/s] 93%|█████████▎| 184/198 [01:00<00:04,  3.37it/s] 93%|█████████▎| 185/198 [01:00<00:03,  3.37it/s] 94%|█████████▍| 186/198 [01:01<00:03,  3.33it/s] 94%|█████████▍| 187/198 [01:01<00:03,  3.41it/s] 95%|█████████▍| 188/198 [01:01<00:02,  3.36it/s] 95%|█████████▌| 189/198 [01:01<00:02,  3.44it/s] 96%|█████████▌| 190/198 [01:02<00:02,  3.34it/s] 96%|█████████▋| 191/198 [01:02<00:02,  3.12it/s] 97%|█████████▋| 192/198 [01:02<00:01,  3.11it/s] 97%|█████████▋| 193/198 [01:03<00:01,  3.26it/s] 98%|█████████▊| 194/198 [01:03<00:01,  3.13it/s] 98%|█████████▊| 195/198 [01:03<00:00,  3.15it/s] 99%|█████████▉| 196/198 [01:04<00:00,  3.38it/s] 99%|█████████▉| 197/198 [01:04<00:00,  3.38it/s]100%|██████████| 198/198 [01:04<00:00,  3.38it/s]
+
+{'CAMP': {'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 4}, 'DATE': {'precision': 0.5, 'recall': 0.6666666666666666, 'f1': 0.5714285714285715, 'number': 12}, 'GHETTO': {'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 2}, 'LOC': {'precision': 0.52, 'recall': 0.8387096774193549, 'f1': 0.6419753086419753, 'number': 31}, 'ORG': {'precision': 1.0, 'recall': 0.6666666666666666, 'f1': 0.8, 'number': 6}, 'PERS': {'precision': 0.5294117647058824, 'recall': 0.72, 'f1': 0.6101694915254237, 'number': 25}, 'overall_precision': 0.5137614678899083, 'overall_recall': 0.7, 'overall_f1': 0.5925925925925927, 'overall_accuracy': 0.9725565719788156}
+
+
+{'eval_loss': 0.08883523941040039, 'eval_precision': 0.5137614678899083, 'eval_recall': 0.7, 'eval_f1': 0.5925925925925927, 'eval_accuracy': 0.9725565719788156, 'eval_runtime': 0.7993, 'eval_samples_per_second': 165.149, 'eval_steps_per_second': 11.26, 'epoch': 2.0}
+
+  0%|          | 0/9 [00:00<?, ?it/s][A
+ 33%|███▎      | 3/9 [00:00<00:00, 17.56it/s][A
+ 56%|█████▌    | 5/9 [00:00<00:00, 14.37it/s][A
+ 78%|███████▊  | 7/9 [00:00<00:00, 12.23it/s][A                                                 
+                                             [A100%|██████████| 198/198 [01:05<00:00,  3.38it/s]
+100%|██████████| 9/9 [00:00<00:00, 12.23it/s][A
+                                             [A                                                 100%|██████████| 198/198 [01:05<00:00,  3.38it/s]100%|██████████| 198/198 [01:05<00:00,  3.02it/s]
+Detected kernel version 3.10.0, which is below the recommended minimum of 5.5.0; this can cause the process to hang. It is recommended to upgrade the kernel to the minimum version or higher.
+
+
+{'CAMP': {'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 4}, 'DATE': {'precision': 0.5, 'recall': 0.6666666666666666, 'f1': 0.5714285714285715, 'number': 12}, 'GHETTO': {'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'number': 2}, 'LOC': {'precision': 0.5306122448979592, 'recall': 0.8387096774193549, 'f1': 0.65, 'number': 31}, 'ORG': {'precision': 1.0, 'recall': 0.8333333333333334, 'f1': 0.9090909090909091, 'number': 6}, 'PERS': {'precision': 0.7407407407407407, 'recall': 0.8, 'f1': 0.7692307692307692, 'number': 25}, 'overall_precision': 0.5959595959595959, 'overall_recall': 0.7375, 'overall_f1': 0.6592178770949721, 'overall_accuracy': 0.9749638902262879}
+
+
+{'eval_loss': 0.07994988560676575, 'eval_precision': 0.5959595959595959, 'eval_recall': 0.7375, 'eval_f1': 0.6592178770949721, 'eval_accuracy': 0.9749638902262879, 'eval_runtime': 0.8034, 'eval_samples_per_second': 164.295, 'eval_steps_per_second': 11.202, 'epoch': 3.0}
+{'train_runtime': 65.4695, 'train_samples_per_second': 48.389, 'train_steps_per_second': 3.024, 'train_loss': 0.2148524197665128, 'epoch': 3.0}
+********** EVALUATION ON TEST SET **********
+  0%|          | 0/9 [00:00<?, ?it/s] 33%|███▎      | 3/9 [00:00<00:00, 25.02it/s] 67%|██████▋   | 6/9 [00:00<00:00, 15.13it/s] 89%|████████▉ | 8/9 [00:00<00:00, 14.72it/s]100%|██████████| 9/9 [00:00<00:00, 13.55it/s]
+
+
+{'CAMP': {'precision': 1.0, 'recall': 0.5, 'f1': 0.6666666666666666, 'number': 6}, 'DATE': {'precision': 0.46153846153846156, 'recall': 0.6, 'f1': 0.5217391304347826, 'number': 20}, 'GHETTO': {'precision': 1.0, 'recall': 1.0, 'f1': 1.0, 'number': 1}, 'LOC': {'precision': 0.703125, 'recall': 0.8035714285714286, 'f1': 0.75, 'number': 56}, 'ORG': {'precision': 1.0, 'recall': 0.5, 'f1': 0.6666666666666666, 'number': 6}, 'PERS': {'precision': 0.78125, 'recall': 0.8928571428571429, 'f1': 0.8333333333333334, 'number': 28}, 'overall_precision': 0.689922480620155, 'overall_recall': 0.7606837606837606, 'overall_f1': 0.7235772357723578, 'overall_accuracy': 0.9706774519716885}
+
+
+initializing model
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+110
+120
+130
+[[   3    0    0    2    0    0    0    0    0    0    0    0    1]
+ [   0   13    0    0    0    0    0    2    0    0    0    0    5]
+ [   0    0    1    0    0    0    0    0    0    0    0    0    0]
+ [   0    0    0   52    0    0    0    0    0    1    0    0    3]
+ [   0    0    0    0    3    0    0    0    0    0    0    0    3]
+ [   0    0    0    0    0   27    0    0    0    0    0    0    1]
+ [   0    0    0    0    0    0    0    0    0    0    0    0    0]
+ [   0    3    0    0    0    0    0   22    0    0    0    0   11]
+ [   0    0    0    0    0    0    0    0    0    0    0    0    0]
+ [   0    0    0    2    0    0    0    0    0    5    0    0    8]
+ [   0    0    0    0    0    0    0    0    0    0    0    0    2]
+ [   0    0    0    0    0    3    0    0    0    0    0   17    0]
+ [   0    1    0    7    0    2    0    1    0    0    0    0 1777]]
+[[499   0   0 333   0   0   0   0   0   0   0   0 166]
+ [  0 650   0   0   0   0   0 100   0   0   0   0 250]
+ [  0   0 999   0   0   0   0   0   0   0   0   0   0]
+ [  0   0   0 928   0   0   0   0   0  17   0   0  53]
+ [  0   0   0   0 499   0   0   0   0   0   0   0 499]
+ [  0   0   0   0   0 964   0   0   0   0   0   0  35]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0]
+ [  0  83   0   0   0   0   0 611   0   0   0   0 305]
+ [  0   0   0   0   0   0   0   0   0   0   0   0   0]
+ [  0   0   0 133   0   0   0   0   0 333   0   0 533]
+ [  0   0   0   0   0   0   0   0   0   0   0   0 999]
+ [  0   0   0   0   0 150   0   0   0   0   0 850   0]
+ [  0   0   0   3   0   1   0   0   0   0   0   0 993]]
+Execution time was 95 seconds.
